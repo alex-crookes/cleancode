@@ -1,0 +1,50 @@
+{
+  "id": 460238,
+  "master_id": 4322,
+  "master_url": "https://api.discogs.com/masters/4322",
+  "resource_url": "https://api.discogs.com/releases/460238",
+  "thumb": "https://i.discogs.com/5sJCHypOHUvIkmSoOI5qJPVLCWSoHJK73LehM_A0ADo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDIz/OC0xMjUzNzc5ODIw/LmpwZWc.jpeg",
+  "cover_image": "https://i.discogs.com/zQ78Bwh7HeRiu-vhoqR-0EWntWhXFYfxDqNJljlsdac/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MDIz/OC0xMjUzNzc5ODIw/LmpwZWc.jpeg",
+  "title": "Tales Of Mystery And Imagination",
+  "year": 1976,
+  "formats": [
+    {
+      "name": "Vinyl",
+      "qty": "1",
+      "text": "Gatefold",
+      "descriptions": [
+        "LP",
+        "Album"
+      ]
+    }
+  ],
+  "artists": [
+    {
+      "name": "The Alan Parsons Project",
+      "anv": "",
+      "join": "",
+      "role": "",
+      "tracks": "",
+      "id": 66916,
+      "resource_url": "https://api.discogs.com/artists/66916"
+    }
+  ],
+  "labels": [
+    {
+      "name": "20th Century Records",
+      "catno": "6370 243",
+      "entity_type": "1",
+      "entity_type_name": "Label",
+      "id": 2350,
+      "resource_url": "https://api.discogs.com/labels/2350"
+    }
+  ],
+  "genres": [
+    "Rock"
+  ],
+  "styles": [
+    "Pop Rock",
+    "Symphonic Rock",
+    "Prog Rock"
+  ]
+}

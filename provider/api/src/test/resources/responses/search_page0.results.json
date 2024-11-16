@@ -1,0 +1,3338 @@
+{
+	"pagination": {
+		"page": 1,
+		"pages": 200,
+		"per_page": 50,
+		"items": 29176,
+		"urls": {
+			"last": "https://api.discogs.com/database/search?q=Cars&token=zNxkKRoDESfycbTLSQcHuXYhcfpocGFNpxPJIehQ&page=200&per_page=50",
+			"next": "https://api.discogs.com/database/search?q=Cars&token=zNxkKRoDESfycbTLSQcHuXYhcfpocGFNpxPJIehQ&page=2&per_page=50"
+		}
+	},
+	"results": [
+		{
+			"country": "US",
+			"year": "1978",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Album",
+				"Stereo"
+			],
+			"label": [
+				"Elektra",
+				"Warner Communications Inc.",
+				"Elektra Records",
+				"Elektra/Asylum Records",
+				"Elektra/Asylum Records",
+				"Elektra/Asylum/Nonesuch Records",
+				"RTB (Audio/Visual) Productions Ltd.",
+				"RTB (Audio/Visual) Productions Ltd.",
+				"Sterling Sound",
+				"Sterling Sound",
+				"PRC Recording Company, Compton, CA",
+				"Lido Music",
+				"Lido Music",
+				"Oversnare Music",
+				"Oversnare Music"
+			],
+			"type": "master",
+			"genre": [
+				"Rock"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock",
+				"Power Pop"
+			],
+			"id": 69666,
+			"barcode": [
+				"PRC-W",
+				"BMI",
+				"ASCAP",
+				"6E-135-A",
+				"6E-135-B",
+				"6E-135-A1-RE-PRCW STERLING",
+				"6E-135-B-4-PRCW RTB STERLING",
+				"6E-135-A1-RE-PRCW I STERLING",
+				"6E-135-B-1-PRCW 1-VIII RTB STERLING",
+				"6E-135-A1-PRCW RTB STERLING",
+				"6E-135-B-4-PRCW RTB STERLING",
+				"6E-135-A1-RE-PRCW 1 STERLING",
+				"6E-135-B-1-PRCW 1 RTB STERLING",
+				"6E-135-A-5-PRC-W-1 STERLING",
+				"6E-135-B-8PRCW STERLING RTB",
+				"6E-135-A4-PRCW-1 RTB STERLING",
+				"6E-135-B-1-PRCW 1 RTB STERLING",
+				"6E-135-A-7-PRCW RTB STERLING",
+				"6E-135-B-5-PRC-W-1 STERLING",
+				"6E-135-A-5- PRC-W- 1 STERLING",
+				"6E-135-B-5-PRC-W-1 STERLING"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/master/69666-The-Cars-The-Cars",
+			"catno": "6E-135",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/QcC25VHTg_DmOPorf8jcKM6shRcjMUHOn_N5GrdavW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xMzE5MDU0ODYz/LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/mQ4p8rs4QCkWGIUV36RxMK41r3w-paGDsHmPYFZwydA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xMzE5MDU0ODYz/LmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/masters/69666",
+			"community": {
+				"want": 41959,
+				"have": 89479
+			}
+		},
+		{
+			"country": "UK",
+			"year": "1979",
+			"format": [
+				"Vinyl",
+				"7\"",
+				"45 RPM",
+				"Single"
+			],
+			"label": [
+				"Beggars Banquet",
+				"Beggars Banquet",
+				"Beggars Banquet",
+				"WEA Records Ltd.",
+				"WEA Records Ltd.",
+				"Beggars Banquet",
+				"Andrew Heath Music Ltd.",
+				"Strawberry Mastering"
+			],
+			"type": "master",
+			"genre": [
+				"Electronic"
+			],
+			"style": [
+				"Synth-pop"
+			],
+			"id": 69171,
+			"barcode": [
+				"B.E.G. 23 A-1 STRAWBERRY EG",
+				"BEG 23 B-1 STRAWBERRY EG"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69171,
+			"master_url": "https://api.discogs.com/masters/69171",
+			"uri": "/master/69171-Gary-Numan-Cars",
+			"catno": "BEG 23",
+			"title": "Gary Numan - Cars",
+			"thumb": "https://i.discogs.com/s4ACk7EeIK5DfoJcDI6WXjfRfLmiGQe_QJC6IgOTB0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Nzg5/MTktMTYyOTQ1Njc5/Ny03NzI2LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/1Q7mJfg_M-7Y2zJm93vf5HLyCf_eAXL1BmVQ8UwMTKc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Nzg5/MTktMTYyOTQ1Njc5/Ny03NzI2LmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/masters/69171",
+			"community": {
+				"want": 4702,
+				"have": 9959
+			}
+		},
+		{
+			"country": "US",
+			"year": "1978",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Album",
+				"Stereo"
+			],
+			"label": [
+				"Elektra",
+				"Warner Communications Inc.",
+				"Elektra Records",
+				"Elektra/Asylum Records",
+				"Elektra/Asylum Records",
+				"Elektra/Asylum/Nonesuch Records",
+				"RTB (Audio/Visual) Productions Ltd.",
+				"RTB (Audio/Visual) Productions Ltd.",
+				"Sterling Sound",
+				"Sterling Sound",
+				"PRC Recording Company, Compton, CA",
+				"Lido Music",
+				"Lido Music",
+				"Oversnare Music",
+				"Oversnare Music"
+			],
+			"type": "release",
+			"genre": [
+				"Rock"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock",
+				"Power Pop"
+			],
+			"id": 190219,
+			"barcode": [
+				"PRC-W",
+				"BMI",
+				"ASCAP",
+				"6E-135-A",
+				"6E-135-B",
+				"6E-135-A1-RE-PRCW STERLING",
+				"6E-135-B-4-PRCW RTB STERLING",
+				"6E-135-A1-RE-PRCW I STERLING",
+				"6E-135-B-1-PRCW 1-VIII RTB STERLING",
+				"6E-135-A1-PRCW RTB STERLING",
+				"6E-135-B-4-PRCW RTB STERLING",
+				"6E-135-A1-RE-PRCW 1 STERLING",
+				"6E-135-B-1-PRCW 1 RTB STERLING",
+				"6E-135-A-5-PRC-W-1 STERLING",
+				"6E-135-B-8PRCW STERLING RTB",
+				"6E-135-A4-PRCW-1 RTB STERLING",
+				"6E-135-B-1-PRCW 1 RTB STERLING",
+				"6E-135-A-7-PRCW RTB STERLING",
+				"6E-135-B-5-PRC-W-1 STERLING",
+				"6E-135-A-5- PRC-W- 1 STERLING",
+				"6E-135-B-5-PRC-W-1 STERLING"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/release/190219-The-Cars-The-Cars",
+			"catno": "6E-135",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/QcC25VHTg_DmOPorf8jcKM6shRcjMUHOn_N5GrdavW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xMzE5MDU0ODYz/LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/mQ4p8rs4QCkWGIUV36RxMK41r3w-paGDsHmPYFZwydA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xMzE5MDU0ODYz/LmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/190219",
+			"community": {
+				"want": 4395,
+				"have": 30390
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"text": "PRC-W, Compton Press",
+					"descriptions": [
+						"LP",
+						"Album",
+						"Stereo"
+					]
+				}
+			]
+		},
+		{
+			"id": 143225,
+			"type": "artist",
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": null,
+			"master_url": null,
+			"uri": "/artist/143225-The-Cars",
+			"title": "The Cars",
+			"thumb": "https://i.discogs.com/sXXXXnqPa09jGM-MtxmBZ_JS7t1O-DQdjXKraviOlks/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0MzIy/NS0xNjY0NTEyMzAy/LTU1MzAuanBlZw.jpeg",
+			"cover_image": "https://i.discogs.com/rb1G_1igEPEXYUznmYCwFDlyaWly53eLTT35SjhrLUo/rs:fit/g:sm/q:90/h:345/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0MzIy/NS0xNjY0NTEyMzAy/LTU1MzAuanBlZw.jpeg",
+			"resource_url": "https://api.discogs.com/artists/143225"
+		},
+		{
+			"country": "US",
+			"year": "1985",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Compilation",
+				"Stereo"
+			],
+			"label": [
+				"Elektra",
+				"Elektra",
+				"Warner Communications Inc.",
+				"Elektra/Asylum/Nonesuch Records",
+				"Elektra/Asylum Records",
+				"WEA International Inc.",
+				"Elektra/Asylum Records",
+				"Sterling Sound",
+				"Sterling Sound",
+				"Specialty Records Corporation",
+				"Lido Music, Inc."
+			],
+			"type": "master",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock",
+				"Synth-pop"
+			],
+			"id": 69626,
+			"barcode": [
+				"0 7559-60464-1",
+				"075596046411",
+				"SP",
+				"SRC logo",
+				"E A S T",
+				"ASCAP",
+				"ST-E-60464-1-E-A-SP",
+				"ST-E-60464-1-E-B-SP",
+				"STE-60464-A-1 1-1 RTB STERLING [SRC logo]",
+				"STE-60464-B-1 1-2 STERLING RTB [SRC logo]",
+				"STE 60464-A-2 1-1 RTB STERLING [SRC logo]",
+				"STE 60464-B-1 1-1SM1-4 STERLING RTB [SRC logo]",
+				"STE-60464-A-1 1-1SM1-3 RTB STERLING [SRC logo]",
+				"STE-60464-B-1 1-2 STERLING RTB [SRC logo]",
+				"STE-60464-A-1 1-1 RTB STERLING [SRC logo]",
+				"STE-60464-B-2 1-1 STERLING RTB [SRC logo]",
+				"STE-60464-A-1 1-1SM1-2 RTB STERLING [SRC logo]",
+				"STE-60464-B-1 1-1SM1-1 RTB STERLING [SRC logo]",
+				"STE-60464-A-1 1-1 RTB STERLING [SRC logo]",
+				"STE-60464-B-2 1-2 STERLING RTB [SRC logo]",
+				"STE-60464-A-1 1-1 SM1-1 RTB STERLING [SRC logo]",
+				"STE-60464-B-2 1-1 STERLING RTB [SRC logo]"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69626,
+			"master_url": "https://api.discogs.com/masters/69626",
+			"uri": "/master/69626-The-Cars-The-Cars-Greatest-Hits",
+			"catno": "9 60464-1-E",
+			"title": "The Cars - The Cars Greatest Hits",
+			"thumb": "https://i.discogs.com/3-4qTV0ZLf1EwKFfZ0-SAPj9mJ_9FcxdSXFkWTEN5B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNjUx/ODMtMTM5NDY3NDQ1/My03NjA2LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/1W_6uavL4XTBi3d4Cgrfqw5ghqPuz4w871TeRlOfEyI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNjUx/ODMtMTM5NDY3NDQ1/My03NjA2LmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/masters/69626",
+			"community": {
+				"want": 5693,
+				"have": 35720
+			}
+		},
+		{
+			"country": "US",
+			"year": "1978",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Album",
+				"Stereo"
+			],
+			"label": [
+				"Elektra",
+				"RTB (Audio/Visual) Productions Ltd.",
+				"Sterling Sound",
+				"Specialty Records Corporation",
+				"Elektra Records",
+				"Elektra/Asylum Records",
+				"Elektra/Asylum/Nonesuch Records",
+				"Warner Communications Inc.",
+				"Lido Music, Inc.",
+				"Oversnare Music",
+				"Lido Music, Inc.",
+				"Oversnare Music",
+				"Elektra/Asylum Records"
+			],
+			"type": "release",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock",
+				"Synth-pop"
+			],
+			"id": 3179696,
+			"barcode": [
+				"BMI",
+				"ASCAP",
+				"SP",
+				"6E-135-A SP",
+				"6E-135-B SP",
+				"6E-135-A-SP RTB STERLING [SRC logo]",
+				"6E-135-B-SP RTB STERLING [SRC logo]",
+				"6E-135-A-6-SP RTB STERLING [SRC logo]",
+				"6E-135-B-7-SP RTB 1-1 STERLING [SRC logo]",
+				"6E-135-AS-10-SP STERLING [SRC logo]",
+				"6E-135-B-10-SP 5 STERLING [SRC logo]",
+				"6E-135-A-SP 1-2 RTB STERLING [SRC logo]",
+				"6E-135-B-SP RTB 1-5 STERLING [SRC logo]",
+				"6E-135-A-SP 1-6 RTB STERLING [SRC logo]",
+				"6E-135-B-SP RTB 1-5 STERLING [SRC logo]",
+				"Elektra 6E-135-A-9-SP 1-2 STERLING [SRC logo]",
+				"Elektra 6E-135-B-7-SP RTB 1-2 STERLING [SRC logo]",
+				"6E-135-A-9-SP 5SM1-2 RTB STERLING [SRC logo]",
+				"6E-135-B-7-SP RTB 6 STERLING [SRC logo]",
+				"6E-135-A-9-SP 1-2 STERLING [SRC logo]",
+				"6E-135-B-7-SP RTB 1-3 STERLING [SRC logo] ",
+				"6E-135-A-SP 1-2 RTB STERLING [SRC logo]",
+				"6E-135-B-SP RTB STERLING [SRC logo]",
+				"6E-135-A-SP 1-8  RTB  STERLING [SRC logo]",
+				"6E-135-B-SP RTB STERLING 1-5 [SRC logo]",
+				"6E-135-A-SP 1-1 RTB STERLING [SRC logo]",
+				"6E-135-B-SP RTB STERLING 1-3 [SRC logo]",
+				"6E-135-A6-SP RTB STERLING 1-5 6E",
+				"6E-135-B-SP RTB STERLING 1-7 [SRC logo]",
+				"6E-135-A-9-SP 5SM1-1 STERLING [SRC logo]",
+				"6E-135-B-10-SP 5SM1-1 STERLING [SRC logo]",
+				"6E-135-A-SP 1-8  RTB  STERLING [SRC logo]",
+				"6E-135-B-SP RTB STERLING 1-6 [SRC logo]",
+				"6E-135-A-SP 1-6 RTB STERLING [SRC logo]",
+				"6E-135-B-SP RTB STERLING 1-6 [SRC logo]",
+				"6E-135-A-SP 1-4 RTB STERLING [SRC logo]",
+				"6E-135-B-SP RTB STERLING 1-5 [SRC logo]",
+				"6E-135-A-9-SP 1-2 STERLING [SRC logo]",
+				"6E-135-B-10-SP 1-4 STERLING [SRC logo]",
+				"6E-135-A-SP 1-5 RTB STERLING [SRC logo]",
+				"6E-135-B-SP RTB STERLING 1-5 [SRC logo]",
+				"6E-135-A-SP 1-1 RTB STERLING [SRC logo]",
+				"6E-135-B-SP RTB STERLING 1-1 [SRC logo]"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/release/3179696-The-Cars-The-Cars",
+			"catno": "6E-135",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/hDoyFWZGeY6SCzEsq0XW5DJrQjVlqTafNJztj-2FY2E/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzk2/OTYtMTMxOTMyMzc5/Ny5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/Df86_xe_prHAwoYmjovAAkbcnybd1NUzxF0awdYHruA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzk2/OTYtMTMxOTMyMzc5/Ny5qcGVn.jpeg",
+			"resource_url": "https://api.discogs.com/releases/3179696",
+			"community": {
+				"want": 678,
+				"have": 8843
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"text": "SP - Specialty Pressing",
+					"descriptions": [
+						"LP",
+						"Album",
+						"Stereo"
+					]
+				}
+			]
+		},
+		{
+			"country": "UK",
+			"year": "1987",
+			"format": [
+				"Vinyl",
+				"7\"",
+				"45 RPM",
+				"Single",
+				"Stereo"
+			],
+			"label": [
+				"Beggars Banquet",
+				"Beggars Banquet Music Ltd.",
+				"Momentum Music Ltd.",
+				"Beggars Banquet",
+				"Beggars Banquet",
+				"Warner Communications",
+				"Musitech",
+				"WEA Records Ltd.",
+				"Tape One",
+				"Damont"
+			],
+			"type": "master",
+			"genre": [
+				"Electronic"
+			],
+			"style": [
+				"Electro",
+				"Synth-pop"
+			],
+			"id": 81852,
+			"barcode": [
+				"BEG 199 A*",
+				"BEG 199 B*",
+				"✶ BEG-199.A1 ✶ 1  MT POUNDA TA1PE  DAMONT F",
+				"✶ BEG-199.B1 ✶ MT  DAMONT U"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 81852,
+			"master_url": "https://api.discogs.com/masters/81852",
+			"uri": "/master/81852-Gary-Numan-Cars",
+			"catno": "BEG 199",
+			"title": "Gary Numan - Cars",
+			"thumb": "https://i.discogs.com/LFTUpC_V4eDIwK8Ud4Hr5ewumTtrbA4uwsY0TdRTEtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDI3/Mi0xMTQzMzAwMDMw/LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/Rz2lA3P3eI835CicXuMz9q6m3wDeSUlY4eiQIouPUTg/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDI3/Mi0xMTQzMzAwMDMw/LmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/masters/81852",
+			"community": {
+				"want": 803,
+				"have": 2820
+			}
+		},
+		{
+			"country": "UK",
+			"year": "1979",
+			"format": [
+				"Vinyl",
+				"7\"",
+				"45 RPM",
+				"Single"
+			],
+			"label": [
+				"Beggars Banquet",
+				"Beggars Banquet",
+				"Beggars Banquet",
+				"WEA Records Ltd.",
+				"WEA Records Ltd.",
+				"Beggars Banquet",
+				"Andrew Heath Music Ltd.",
+				"Strawberry Mastering"
+			],
+			"type": "release",
+			"genre": [
+				"Electronic"
+			],
+			"style": [
+				"Synth-pop"
+			],
+			"id": 2578919,
+			"barcode": [
+				"B.E.G. 23 A-1 STRAWBERRY EG",
+				"BEG 23 B-1 STRAWBERRY EG"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69171,
+			"master_url": "https://api.discogs.com/masters/69171",
+			"uri": "/release/2578919-Gary-Numan-Cars",
+			"catno": "BEG 23",
+			"title": "Gary Numan - Cars",
+			"thumb": "https://i.discogs.com/s4ACk7EeIK5DfoJcDI6WXjfRfLmiGQe_QJC6IgOTB0c/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Nzg5/MTktMTYyOTQ1Njc5/Ny03NzI2LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/1Q7mJfg_M-7Y2zJm93vf5HLyCf_eAXL1BmVQ8UwMTKc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI1Nzg5/MTktMTYyOTQ1Njc5/Ny03NzI2LmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/2578919",
+			"community": {
+				"want": 336,
+				"have": 2119
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"text": "Paper Labels",
+					"descriptions": [
+						"7\"",
+						"45 RPM",
+						"Single"
+					]
+				}
+			]
+		},
+		{
+			"country": "US",
+			"year": "2009",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Album",
+				"Limited Edition",
+				"Numbered",
+				"Reissue",
+				"Remastered",
+				"Special Edition"
+			],
+			"label": [
+				"Mobile Fidelity Sound Lab",
+				"Original Master Recording",
+				"Elektra Entertainment Group",
+				"RTB (Audio/Visual) Productions Ltd.",
+				"GAIN 2™ Ultra Analog LP 180g Series",
+				"Mobile Fidelity Sound Lab, Inc.",
+				"Mobile Fidelity Sound Lab, Inc.",
+				"Elektra Entertainment Group",
+				"Lido Music",
+				"Oversnare Music",
+				"Mobile Fidelity Sound Lab, Inc.",
+				"Mobile Fidelity Sound Lab",
+				"Record Technology Incorporated",
+				"RTB (Audio/Visual) Productions Ltd.",
+				"Mobile Fidelity Sound Lab"
+			],
+			"type": "release",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock",
+				"Synth-pop"
+			],
+			"id": 2308604,
+			"barcode": [
+				"821797127417",
+				"8 21797 12741 7",
+				"BMI",
+				"ASCAP",
+				"MFSL 1-274 A2 SRB/2 \"Nuclear Boots\" 18358.1(3)...",
+				"MFSL 1-274 B2 SRB/2 \"Substitution•Mass Confusion\" 18358.2(3)..."
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/release/2308604-The-Cars-The-Cars",
+			"catno": "MFSL 1-274",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/0CigxyjKBQdSS7HWWDT3yVXSF9BvwXtrQipi_gCzPAM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg2/MDQtMTM0NzM4MjUy/Mi04MjcwLmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/gIeoB3c27U10c6SXiYV0VXJ75LrQi2hGDDGpBAw8DIE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMDg2/MDQtMTM0NzM4MjUy/Mi04MjcwLmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/2308604",
+			"community": {
+				"want": 945,
+				"have": 3927
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"text": "180 Gram, Gatefold",
+					"descriptions": [
+						"LP",
+						"Album",
+						"Limited Edition",
+						"Numbered",
+						"Reissue",
+						"Remastered",
+						"Special Edition"
+					]
+				}
+			]
+		},
+		{
+			"country": "US",
+			"year": "1979",
+			"format": [
+				"Vinyl",
+				"7\"",
+				"45 RPM",
+				"Single",
+				"Stereo"
+			],
+			"label": [
+				"ATCO Records",
+				"Warner Communications",
+				"Atlantic Recording Corporation",
+				"Specialty Records Corporation",
+				"Beggars Banquet Music Ltd.",
+				"Andrew Heath Music Ltd.",
+				"Marcus Recording Studios",
+				"Atlantic Studios"
+			],
+			"type": "release",
+			"genre": [
+				"Electronic"
+			],
+			"style": [
+				"Synth-pop"
+			],
+			"id": 645055,
+			"barcode": [
+				"ST-79C-37790 SP",
+				"ST-79C-37783 SP",
+				"PRS",
+				"SP",
+				"SRC logo",
+				"1-4 ST-79C 37790-12 @tGP [SRC logo]",
+				"1-2 ST-79-C 37783-5 @tGP [SRC logo]",
+				"1-1 [SRC logo]  ST-79C 37790-13 @TGP",
+				"1-1 [SRC logo]  ST79S̶T̶-C-37783-1 @tGP",
+				"1 - 2 ST-79C 37790-12 @tGP [SRC logo]",
+				"ST-79-C 37783-5 @tGP [SRC logo] 1 - 1",
+				"1-1 [SRC logo]  ST-79C 37790-13 @TGP",
+				"ST79S̶T̶-C-37783-2 @tGP 1-3 [SRC logo]"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69171,
+			"master_url": "https://api.discogs.com/masters/69171",
+			"uri": "/release/645055-Gary-Numan-Cars",
+			"catno": "7211",
+			"title": "Gary Numan - Cars",
+			"thumb": "https://i.discogs.com/lmKLzjNXA_ZvW-2n2os33Xe9pEQS0VUsuojVYl4Lw8s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTA1/NS0xNTYxNzUwNjMw/LTc2MjUuanBlZw.jpeg",
+			"cover_image": "https://i.discogs.com/qrAEM49lQI4Wxuku7I5ND1JyjUSNyw-Nx_VM7jyo1Cg/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY0NTA1/NS0xNTYxNzUwNjMw/LTc2MjUuanBlZw.jpeg",
+			"resource_url": "https://api.discogs.com/releases/645055",
+			"community": {
+				"want": 221,
+				"have": 1843
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"text": "Specialty Pressing",
+					"descriptions": [
+						"7\"",
+						"45 RPM",
+						"Single",
+						"Stereo"
+					]
+				}
+			]
+		},
+		{
+			"country": "Canada",
+			"year": "1978",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Album"
+			],
+			"label": [
+				"Elektra",
+				"WEA Music Of Canada, Ltd.",
+				"WEA Music Of Canada, Ltd.",
+				"Elektra/Asylum Records",
+				"Elektra/Asylum Records",
+				"J.A.M.F.",
+				"Sterling Sound",
+				"Impact Records Mfg. Co. Of Canada"
+			],
+			"type": "release",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock",
+				"Synth-pop"
+			],
+			"id": 3296145,
+			"barcode": [
+				"6E-135-A. ZH JAMF",
+				"6E-135-B H2 ZH JAMF"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/release/3296145-The-Cars-The-Cars",
+			"catno": "6E-135",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/_16KVQgy5-ODSnlQNSnK_mesj9LNHmuXHiLGEIZvTic/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTYx/NDUtMTMyNTQ1MTIx/OC5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/lnctInVE-RsJOMWmCWRI-2xolFRz3zE4fZ-t2NGWpYs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyOTYx/NDUtMTMyNTQ1MTIx/OC5qcGVn.jpeg",
+			"resource_url": "https://api.discogs.com/releases/3296145",
+			"community": {
+				"want": 346,
+				"have": 3441
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"text": "Impact Records Mfg. Pressing",
+					"descriptions": [
+						"LP",
+						"Album"
+					]
+				}
+			]
+		},
+		{
+			"country": "UK",
+			"year": "1993",
+			"format": [
+				"Vinyl",
+				"7\"",
+				"Single",
+				"45 RPM"
+			],
+			"label": [
+				"Beggars Banquet",
+				"Beggars Banquet Records Ltd.",
+				"Beggars Banquet Records Ltd.",
+				"Damont",
+				"Beggars Banquet Music Ltd.",
+				"Momentum Music Ltd.",
+				"Copymasters"
+			],
+			"type": "master",
+			"genre": [
+				"Electronic"
+			],
+			"style": [
+				"Synth-pop"
+			],
+			"id": 81922,
+			"barcode": [
+				"5 012093 026473",
+				"BEG 264 A1 1 DAMONT GEORGE COPYMASTERS",
+				"BEG 264 B D 1 DAMONT"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 81922,
+			"master_url": "https://api.discogs.com/masters/81922",
+			"uri": "/master/81922-Gary-Numan-Cars",
+			"catno": "BEG 264",
+			"title": "Gary Numan - Cars",
+			"thumb": "https://i.discogs.com/v3G77A_dk9EsXfR9LIEup9Rr6EhEZliDRNLOyajvhJY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2OTk4/MS0xMTQ1ODg3MjQw/LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/A-2H1Mdn89OMbiEDDaHSoRms6FAlC4Z5ZHFu9X2zgnM/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY2OTk4/MS0xMTQ1ODg3MjQw/LmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/masters/81922",
+			"community": {
+				"want": 373,
+				"have": 760
+			}
+		},
+		{
+			"country": "UK",
+			"year": "1987",
+			"format": [
+				"Vinyl",
+				"12\"",
+				"45 RPM"
+			],
+			"label": [
+				"Beggars Banquet",
+				"Beggars Banquet",
+				"Beggars Banquet",
+				"WEA Records Ltd.",
+				"Beggars Banquet Music Ltd.",
+				"Momentum Music Ltd.",
+				"Numan Music Ltd.",
+				"Tape One",
+				"Musitech",
+				"Damont"
+			],
+			"type": "release",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"Electro",
+				"Synth-pop"
+			],
+			"id": 119597,
+			"barcode": [
+				"BEG 199T A*",
+				"BEG 199T B*",
+				"✲ BEG 199 (T)·A-1 ✲ 1 MT. POUNDA TA1PE DAMONT OTS X",
+				"✲ BEG 199 (T)·B-1 ✲ 1 MT. DAMONT ⌶",
+				"✲ BEG 199 (T)·A-1 ✲ 1 MT.  POUNDA TA1PE  DAMONT  DG",
+				"✲ BEG 199 (T)·B-1 ✲ 1 MT.  DAMONT  DG"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 81852,
+			"master_url": "https://api.discogs.com/masters/81852",
+			"uri": "/release/119597-Gary-Numan-Cars",
+			"catno": "BEG 199T",
+			"title": "Gary Numan - Cars",
+			"thumb": "https://i.discogs.com/M39wqbct3SWeDfjScvnAMCm5nLcFXifrP2jz5EtM9Xk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTU5/Ny0xMzc4Nzk1MTQz/LTExODAuanBlZw.jpeg",
+			"cover_image": "https://i.discogs.com/o9IaWDrlMjdoDsjaFTwlc6ySWKg3Y-xOBSiUPVFZT8E/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTU5/Ny0xMzc4Nzk1MTQz/LTExODAuanBlZw.jpeg",
+			"resource_url": "https://api.discogs.com/releases/119597",
+			"community": {
+				"want": 245,
+				"have": 1182
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"descriptions": [
+						"12\"",
+						"45 RPM"
+					]
+				}
+			]
+		},
+		{
+			"country": "UK",
+			"year": "1978",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Album"
+			],
+			"label": [
+				"Elektra",
+				"Warner Communications",
+				"WEA Records Ltd.",
+				"RTB (Audio/Visual) Productions Ltd.",
+				"Elektra Records",
+				"Elektra/Asylum Records",
+				"Gothic Press Ltd.",
+				"Lido Music",
+				"Oversnare Music",
+				"Sterling Sound",
+				"Gedmal Galvanic Ltd."
+			],
+			"type": "release",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock",
+				"Synth-pop"
+			],
+			"id": 1165287,
+			"barcode": [
+				"(6E-135)",
+				"K 52088 A*",
+				"K 52088 B*",
+				"K 52088 A1 ALLEN EG S-19",
+				"K 52088 B1 ALLEN EG S-24",
+				"K 52088 A1 ALLEN EG S-18",
+				"K 52088 B1 ALLEN EG S-22",
+				"K 52088 A1 ALLEN EG S-45",
+				"K 52088 B1 ALLEN EG S-52",
+				"K 52088 A1 ALLEN EG S-33",
+				"K 52088 B1 ALLEN EG S-40",
+				"K 52088 A1 ALLEN EG ϩ-15",
+				"K 52088 B1 ALLEN EG S-19",
+				"K 52088 A1 ALLEN EG S-36",
+				"K 52088 B1 ALLEN EG S-43"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/release/1165287-The-Cars-The-Cars",
+			"catno": "K 52088",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/1pKu-3QXJk9KXqjpg7D8vMyKH00dAhYqXmE21q2pu3s/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUy/ODctMTQyODc0Mjgy/Ny0xNDk4LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/a2HL-Ha7e9y70bb6Z8zrc9_bIw8wm0WAmioojuw70vg/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExNjUy/ODctMTQyODc0Mjgy/Ny0xNDk4LmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/1165287",
+			"community": {
+				"want": 485,
+				"have": 2433
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"descriptions": [
+						"LP",
+						"Album"
+					]
+				}
+			]
+		},
+		{
+			"country": "US",
+			"year": "1982",
+			"format": [
+				"Vinyl",
+				"7\"",
+				"33 ⅓ RPM",
+				"Single"
+			],
+			"label": [
+				"Deep Space Records",
+				"QCA Custom Pressing"
+			],
+			"type": "master",
+			"genre": [
+				"Electronic"
+			],
+			"style": [
+				"Techno",
+				"Electro"
+			],
+			"id": 128,
+			"barcode": [
+				"203053XA",
+				"203053XB"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 128,
+			"master_url": "https://api.discogs.com/masters/128",
+			"uri": "/master/128-Cybotron-Cosmic-Cars",
+			"catno": "203053X",
+			"title": "Cybotron - Cosmic Cars",
+			"thumb": "https://i.discogs.com/pmBnp706DWlcJwdssbhT2mTxo6CoRiu2mqhxyhiqpU8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTg5/My0xMzUyNzEzODQ3/LTQ1MzguanBlZw.jpeg",
+			"cover_image": "https://i.discogs.com/lt5Zazt-nhSgEOIAFdBSIIFdg1Bc98qevUX7LNErbYY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE2OTg5/My0xMzUyNzEzODQ3/LTQ1MzguanBlZw.jpeg",
+			"resource_url": "https://api.discogs.com/masters/128",
+			"community": {
+				"want": 4657,
+				"have": 1079
+			}
+		},
+		{
+			"country": "US",
+			"year": "1978",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Album",
+				"Stereo"
+			],
+			"label": [
+				"Elektra",
+				"Sterling Sound",
+				"Lido Music",
+				"Oversnare Music",
+				"Elektra/Asylum/Nonesuch Records",
+				"Elektra/Asylum Records",
+				"Elektra/Asylum Records",
+				"Elektra Records",
+				"Allied Record Company",
+				"Allied Record Company",
+				"RTB (Audio/Visual) Productions Ltd.",
+				"Warner Communications"
+			],
+			"type": "release",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock",
+				"Synth-pop"
+			],
+			"id": 3407110,
+			"barcode": [
+				"none",
+				"BMI",
+				"ASCAP",
+				"6E-135-A (AR)",
+				"6E-135-B (AR)",
+				"6E-135-A-8-AR B-14170 -1 RTB STERLING",
+				"6E-135-B-9-AR B - 14171- [(circled) 2] RTB STERLING",
+				"6E-135-A-8-AR B-14170 RTB STERLING",
+				"6E-135-B-9-AR B - 14171 RTB STERLING",
+				"6E-135-A-8-AR B-14170 -1 RTB STERLING",
+				"6E-135-B-9-AR B-14171 -1 RTB STERLING"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/release/3407110-The-Cars-The-Cars",
+			"catno": "6E-135",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/NsMX_YKuBIAM4LQvHMLnvrAqE_w4KZvptHLPeParexU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDcx/MTAtMTMyOTE5MTc3/Ni5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/G9W8_Dhj6lYHmNeb1Dlt3qw-vj_SssYxALaIZvBGTdg/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM0MDcx/MTAtMTMyOTE5MTc3/Ni5qcGVn.jpeg",
+			"resource_url": "https://api.discogs.com/releases/3407110",
+			"community": {
+				"want": 479,
+				"have": 2395
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"text": "AR",
+					"descriptions": [
+						"LP",
+						"Album",
+						"Stereo"
+					]
+				}
+			]
+		},
+		{
+			"country": "US",
+			"year": "1978",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Album",
+				"Club Edition",
+				"Stereo"
+			],
+			"label": [
+				"Elektra",
+				"Elektra/Asylum Records",
+				"Elektra/Asylum Records",
+				"Sterling Sound",
+				"Specialty Records Corporation",
+				"Elektra/Asylum/Nonesuch Records",
+				"RCA Music Service"
+			],
+			"type": "release",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock",
+				"Synth-pop"
+			],
+			"id": 7093137,
+			"barcode": [
+				"6E-135-A-9-SP 1-3 STERLING R-144033-1 [Logo] SRC",
+				"6E-135-A-7-SP STERLING R-144033-B  RTB 1-5SM1-1 [Logo] SRC",
+				"6E-135-A SP",
+				"6E-135-B SP",
+				"R-144033"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/release/7093137-The-Cars-The-Cars",
+			"catno": "6E-135",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/DrbtaYICt-OPq-quZhm_1ZfFri-HSUgFflhA7q5ZIbQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTMx/MzctMTQzMzcxMTM0/MC04NTkzLmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/inJl_AvOvYeIfue2kNs6DnyfYZcyhBUOVLI9-YW6yhc/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwOTMx/MzctMTQzMzcxMTM0/MC04NTkzLmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/7093137",
+			"community": {
+				"want": 433,
+				"have": 2443
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"text": "Specialty",
+					"descriptions": [
+						"LP",
+						"Album",
+						"Club Edition",
+						"Stereo"
+					]
+				}
+			]
+		},
+		{
+			"country": "US",
+			"year": "1999",
+			"format": [
+				"CD",
+				"Single",
+				"Promo"
+			],
+			"label": [
+				"Roadrunner Records"
+			],
+			"type": "master",
+			"genre": [
+				"Electronic"
+			],
+			"style": [
+				"Industrial",
+				"Synth-pop"
+			],
+			"id": 28628,
+			"barcode": [
+
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 28628,
+			"master_url": "https://api.discogs.com/masters/28628",
+			"uri": "/master/28628-Fear-Factory-Cars",
+			"catno": "RR PROMO 369",
+			"title": "Fear Factory - Cars",
+			"thumb": "https://i.discogs.com/CuvEDIrT5pW5w7osxH9ahu5x6h_6Bbhp1FRtdcDb3fU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzA1/MS0xMzI5MTc2OTE5/LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/_7-J33ZOQFQ7GHJAsKBaXrstU2rHOFTmT9bSgcBwWEM/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0MzA1/MS0xMzI5MTc2OTE5/LmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/masters/28628",
+			"community": {
+				"want": 184,
+				"have": 744
+			}
+		},
+		{
+			"country": "US",
+			"year": "1985",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Compilation",
+				"Club Edition"
+			],
+			"label": [
+				"Elektra",
+				"Elektra",
+				"Elektra/Asylum/Nonesuch Records",
+				"Elektra/Asylum Records",
+				"Lido Music, Inc.",
+				"Sterling Sound"
+			],
+			"type": "release",
+			"genre": [
+				"Rock"
+			],
+			"style": [
+				"Pop Rock",
+				"Synth-pop"
+			],
+			"id": 3871645,
+			"barcode": [
+				"075596046411",
+				"0 7559-60464-1",
+				"STE 60464A-1A",
+				"STE 60464B-1B"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69626,
+			"master_url": "https://api.discogs.com/masters/69626",
+			"uri": "/release/3871645-The-Cars-The-Cars-Greatest-Hits",
+			"catno": "E1 60464",
+			"title": "The Cars - The Cars Greatest Hits",
+			"thumb": "https://i.discogs.com/I798F3eSyhVoWYTOTWe8BsrbJOJ_bJ_gKKgpX0H3rv4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzE2/NDUtMTM0NzU4ODQ4/MC0xNjQ0LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/_dthO72WdMtwe4AunQAFu_FbF2_bga0kjxtTPKCVCRo/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4NzE2/NDUtMTM0NzU4ODQ4/MC0xNjQ0LmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/3871645",
+			"community": {
+				"want": 240,
+				"have": 4217
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"descriptions": [
+						"LP",
+						"Compilation",
+						"Club Edition"
+					]
+				}
+			]
+		},
+		{
+			"country": "UK",
+			"year": "1979",
+			"format": [
+				"Vinyl",
+				"7\"",
+				"45 RPM",
+				"Single",
+				"Stereo"
+			],
+			"label": [
+				"Beggars Banquet",
+				"Beggars Banquet",
+				"Beggars Banquet",
+				"Beggars Banquet",
+				"Warner Communications",
+				"Strawberry Mastering",
+				"Beggars Banquet",
+				"Andrew Heath Music Ltd.",
+				"WEA Records Ltd.",
+				"WEA Records Ltd."
+			],
+			"type": "release",
+			"genre": [
+				"Electronic"
+			],
+			"style": [
+				"Synth-pop"
+			],
+			"id": 126862,
+			"barcode": [
+				"BEG 23 A1 STRAWBERRY AD",
+				"BEG 23 B1 STRAWBERRY AD",
+				"BEG 23 A4 C STRAWBERRY",
+				"BEG 23 B4 STRAWBERRY B",
+				"BEG 23 A1 STRAWBERRY",
+				"BEG 23 B1 STRAWBERRY B"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69171,
+			"master_url": "https://api.discogs.com/masters/69171",
+			"uri": "/release/126862-Gary-Numan-Cars",
+			"catno": "BEG 23",
+			"title": "Gary Numan - Cars",
+			"thumb": "https://i.discogs.com/Fn5l3BXrfyfeheLkUwLO4iJ6C6iRbbV829x4qKf5cAw/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjg2/Mi0xMTkzNjQ5MzUx/LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/HVM9GDnm1bwHLEiBIaFGCEKK-we-bq1LOOLYsfgFFlw/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyNjg2/Mi0xMTkzNjQ5MzUx/LmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/126862",
+			"community": {
+				"want": 197,
+				"have": 869
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"text": "Paper Labels",
+					"descriptions": [
+						"7\"",
+						"45 RPM",
+						"Single",
+						"Stereo"
+					]
+				}
+			]
+		},
+		{
+			"country": "US",
+			"year": "1978",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Album"
+			],
+			"label": [
+				"Elektra",
+				"Elektra/Asylum Records",
+				"Sterling Sound",
+				"Specialty Records Corporation"
+			],
+			"type": "release",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock",
+				"Synth-pop"
+			],
+			"id": 5732359,
+			"barcode": [
+				"6E-135-A",
+				"6E-135-B",
+				"SRC 6E-135-A-9-SP  STERLING",
+				"SRC 6E-135-B-10-SP  STERLING"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/release/5732359-The-Cars-The-Cars",
+			"catno": "6E-135",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/eoxzeDKb5ylhrlCwuGXePZ5ST7BwZ_cVDXkoxB4qfCg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzIz/NTktMTQxMzIyMTMw/MS0xODc5LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/buF2Rm5FBnst27VPR3Ys9cVi2gnBTyqL6xIccKpEAaM/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU3MzIz/NTktMTQxMzIyMTMw/MS0xODc5LmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/5732359",
+			"community": {
+				"want": 386,
+				"have": 1432
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"text": "Specialty Pressing",
+					"descriptions": [
+						"LP",
+						"Album"
+					]
+				}
+			]
+		},
+		{
+			"country": "US",
+			"year": "1978",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Album",
+				"Stereo"
+			],
+			"label": [
+				"Elektra",
+				"Warner Communications Inc.",
+				"Elektra Records",
+				"Elektra/Asylum Records",
+				"Elektra/Asylum Records",
+				"Elektra/Asylum/Nonesuch Records",
+				"RTB (Audio/Visual) Productions Ltd.",
+				"Sterling Sound",
+				"Sterling Sound",
+				"PRC Recording Company, Richmond, IN",
+				"Lido Music",
+				"Lido Music",
+				"Oversnare Music",
+				"Oversnare Music"
+			],
+			"type": "release",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock",
+				"Power Pop"
+			],
+			"id": 4343430,
+			"barcode": [
+				"BMI",
+				"ASCAP",
+				"PRC",
+				"6E-135-A",
+				"6E-135-B",
+				"6E-135-A2-PRC-11-111 RTB PRC STERLING",
+				"6E-135-B3-PRC-11-11 RTB PRC STERLING",
+				"6E-135-A3-PRC-11-111 RTB PRC STERLING",
+				"6E-135-B3-PRC-11-11 RTB PRC STERLING",
+				"6E-135-A2-PRC-11-11111 RTB STERLING PRC",
+				"6E-135-B2-PRC-11-11 RTB STERLING PRC"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/release/4343430-The-Cars-The-Cars",
+			"catno": "6E-135",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/WJnWwQ2CDCFAebLQ3bB9XIcPptYbP9gaqKriedUBBko/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDM0/MzAtMTQwMDA0MjEx/Ni02MDM4LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/mGxnguEinxRX_ePgRF05FHuXJzDnRsNS62HjCwcoaow/rs:fit/g:sm/q:90/h:581/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQzNDM0/MzAtMTQwMDA0MjEx/Ni02MDM4LmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/4343430",
+			"community": {
+				"want": 414,
+				"have": 1659
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"text": "PRC Richmond Pressing",
+					"descriptions": [
+						"LP",
+						"Album",
+						"Stereo"
+					]
+				}
+			]
+		},
+		{
+			"country": "US",
+			"year": "1983",
+			"format": [
+				"CD",
+				"Album",
+				"Reissue"
+			],
+			"label": [
+				"Elektra",
+				"Elektra",
+				"Lido Music",
+				"Oversnare Music",
+				"Elektra/Asylum Records",
+				"Elektra/Asylum Records",
+				"Sterling Sound",
+				"Victor Company Of Japan, Ltd."
+			],
+			"type": "release",
+			"genre": [
+				"Rock"
+			],
+			"style": [
+				"Pop Rock"
+			],
+			"id": 2763010,
+			"barcode": [
+				"0 7559-60524-2 9",
+				"075596052429",
+				"135-2-U4E21 ",
+				"135-2-U4E31",
+				"135-2-U4E23"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/release/2763010-The-Cars-The-Cars",
+			"catno": "135-2",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/O2UTWPGbFlJGTbaXynYHP6BseDoxXNZmR38XHgWdMVk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjMw/MTAtMTY4ODA5Nzc4/MC0yMDEzLmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/JJxudbKHz816GYsZjkG43dgE3glp4PkB6Bv6ELOcBXQ/rs:fit/g:sm/q:90/h:606/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3NjMw/MTAtMTY4ODA5Nzc4/MC0yMDEzLmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/2763010",
+			"community": {
+				"want": 239,
+				"have": 1252
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "CD",
+					"qty": "1",
+					"text": "Victor Company Of Japan, Ltd.",
+					"descriptions": [
+						"Album",
+						"Reissue"
+					]
+				}
+			]
+		},
+		{
+			"country": "Germany",
+			"year": "1978",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Album"
+			],
+			"label": [
+				"Elektra",
+				"Elektra",
+				"Elektra Records",
+				"WEA Musik GmbH",
+				"Tonstudio Pfanz"
+			],
+			"type": "release",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"Pop Rock",
+				"Power Pop",
+				"New Wave"
+			],
+			"id": 2274537,
+			"barcode": [
+				"LC 0192",
+				"Ⓩ",
+				"GEMA",
+				"WEA 6E-135-A",
+				"WEA 6E-135-B",
+				"WEA 6E-135-A   PF.",
+				"WEA 6E-135-B   52088-B   PF."
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/release/2274537-The-Cars-The-Cars",
+			"catno": "ELK 52 088",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/bq3uYA-juH2SOaPQ46ym_swJM6O6GhcgC47i0qNIiZE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzQ1/MzctMTYzMzE2ODY2/Mi00MTgzLmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/OGNmPDd9Dk8_pM6j8FxuA7hsVj_65WLJUbSSgKgsipQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIyNzQ1/MzctMTYzMzE2ODY2/Mi00MTgzLmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/2274537",
+			"community": {
+				"want": 352,
+				"have": 1398
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"descriptions": [
+						"LP",
+						"Album"
+					]
+				}
+			]
+		},
+		{
+			"country": "UK",
+			"year": "1987",
+			"format": [
+				"Vinyl",
+				"7\"",
+				"45 RPM",
+				"Single",
+				"Stereo"
+			],
+			"label": [
+				"Beggars Banquet",
+				"Beggars Banquet Music Ltd.",
+				"Momentum Music Ltd.",
+				"Beggars Banquet",
+				"Beggars Banquet",
+				"Warner Communications",
+				"Musitech",
+				"WEA Records Ltd.",
+				"Tape One",
+				"Damont"
+			],
+			"type": "release",
+			"genre": [
+				"Electronic"
+			],
+			"style": [
+				"Electro",
+				"Synth-pop"
+			],
+			"id": 584272,
+			"barcode": [
+				"BEG 199 A*",
+				"BEG 199 B*",
+				"✶ BEG-199.A1 ✶ 1  MT POUNDA TA1PE  DAMONT F",
+				"✶ BEG-199.B1 ✶ MT  DAMONT U"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 81852,
+			"master_url": "https://api.discogs.com/masters/81852",
+			"uri": "/release/584272-Gary-Numan-Cars",
+			"catno": "BEG 199",
+			"title": "Gary Numan - Cars",
+			"thumb": "https://i.discogs.com/LFTUpC_V4eDIwK8Ud4Hr5ewumTtrbA4uwsY0TdRTEtg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDI3/Mi0xMTQzMzAwMDMw/LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/Rz2lA3P3eI835CicXuMz9q6m3wDeSUlY4eiQIouPUTg/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU4NDI3/Mi0xMTQzMzAwMDMw/LmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/584272",
+			"community": {
+				"want": 71,
+				"have": 797
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"descriptions": [
+						"7\"",
+						"45 RPM",
+						"Single",
+						"Stereo"
+					]
+				}
+			]
+		},
+		{
+			"country": "US",
+			"year": "1978",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Album",
+				"Club Edition",
+				"Stereo"
+			],
+			"label": [
+				"Elektra",
+				"Elektra",
+				"Columbia House",
+				"Elektra/Asylum/Nonesuch Records",
+				"Elektra Records",
+				"Elektra/Asylum Records",
+				"Elektra/Asylum Records",
+				"Lido Music",
+				"Oversnare Music",
+				"Sterling Sound",
+				"Columbia Records Pressing Plant, Santa Maria",
+				"Columbia Records Pressing Plant, Pitman"
+			],
+			"type": "release",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock",
+				"Synth-pop"
+			],
+			"id": 4084970,
+			"barcode": [
+				"BMI",
+				"ASCAP",
+				"P, CP",
+				"6E-135-A",
+				"6E-135-B",
+				"6E-135A CSM2 A XS 2S",
+				"6E135B-CP P",
+				"6E 135 A-1A",
+				"6E-135 B CP",
+				"6E-135-A-1A SX  A 1S",
+				"6E135B-CP"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/release/4084970-The-Cars-The-Cars",
+			"catno": "6E 135",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/CTxoM3Nz_JjzNZ6c6wV60P175n7JNwyb1cHF6IslBZM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODQ5/NzAtMTM1NDcyNTcz/Ny0yMTEwLmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/FfC5H0SL738B8BK6LExw3GsnBCFHUvmZfbaYf_Jg678/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwODQ5/NzAtMTM1NDcyNTcz/Ny0yMTEwLmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/4084970",
+			"community": {
+				"want": 347,
+				"have": 1376
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"text": "Pitman",
+					"descriptions": [
+						"LP",
+						"Album",
+						"Club Edition",
+						"Stereo"
+					]
+				}
+			]
+		},
+		{
+			"country": "UK & Europe",
+			"year": "1985",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Compilation"
+			],
+			"label": [
+				"Elektra",
+				"Elektra",
+				"Elektra/Asylum Records",
+				"Elektra/Asylum Records",
+				"WEA International Inc.",
+				"WEA International Inc.",
+				"Record Service GmbH",
+				"Carlin Music Corp.",
+				"Lido Music, Inc.",
+				"Sterling Sound",
+				"Record Service Alsdorf"
+			],
+			"type": "release",
+			"genre": [
+				"Rock"
+			],
+			"style": [
+				"Pop Rock"
+			],
+			"id": 1289804,
+			"barcode": [
+				"0 7559-60464-1",
+				"LC 0192",
+				"GEMA/BIEM",
+				"Ⓤ",
+				"WE 381",
+				"R/S Alsdorf 960464-1 A 4",
+				"R/S Alsdorf 960464-1 B 2",
+				"R/S Alsdorf 960464-1 A4",
+				"R/S Alsdorf 960464-1 B3",
+				"R/S Alsdorf 960464-1 A3",
+				"R/S Alsdorf 960464-1 B2",
+				"R/S Alsdorf 960464-1 A 4X D 1 14",
+				"R/S Alsdorf 960464-1-B3 25",
+				"R/S Alsdorf 960464-1 A 4 35",
+				"R/S Alsdorf 960464-1-B XX b",
+				"R/S Alsdorf 960464-1 A3X 5",
+				"R/S Alsdorf 960464-1 B2XX \"UK\"",
+				"R/S Alsdorf 960464-1 A 4 7 UKD ",
+				"R/S Alsdorf 960464-1 B 7"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69626,
+			"master_url": "https://api.discogs.com/masters/69626",
+			"uri": "/release/1289804-The-Cars-The-Cars-Greatest-Hits",
+			"catno": "EKT 25",
+			"title": "The Cars - The Cars Greatest Hits",
+			"thumb": "https://i.discogs.com/o1iDZNDyuo5QcDqUjebhbbKiEBjOMNE-6j_JDakHKO8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk4/MDQtMTI4NzQ3OTA1/OS5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/UBvoKQR1LFt40SsqQCMYD_1Q4ef0HWsbnpOxF-TqREk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyODk4/MDQtMTI4NzQ3OTA1/OS5qcGVn.jpeg",
+			"resource_url": "https://api.discogs.com/releases/1289804",
+			"community": {
+				"want": 223,
+				"have": 3295
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"descriptions": [
+						"LP",
+						"Compilation"
+					]
+				}
+			]
+		},
+		{
+			"country": "US",
+			"year": "1985",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Compilation",
+				"Stereo"
+			],
+			"label": [
+				"Elektra",
+				"Elektra",
+				"Warner Communications Inc.",
+				"Elektra/Asylum/Nonesuch Records",
+				"Elektra/Asylum Records",
+				"WEA International Inc.",
+				"Elektra/Asylum Records",
+				"Sterling Sound",
+				"Sterling Sound",
+				"Specialty Records Corporation",
+				"Lido Music, Inc."
+			],
+			"type": "release",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock",
+				"Synth-pop"
+			],
+			"id": 5365183,
+			"barcode": [
+				"0 7559-60464-1",
+				"075596046411",
+				"SP",
+				"SRC logo",
+				"E A S T",
+				"ASCAP",
+				"ST-E-60464-1-E-A-SP",
+				"ST-E-60464-1-E-B-SP",
+				"STE-60464-A-1 1-1 RTB STERLING [SRC logo]",
+				"STE-60464-B-1 1-2 STERLING RTB [SRC logo]",
+				"STE 60464-A-2 1-1 RTB STERLING [SRC logo]",
+				"STE 60464-B-1 1-1SM1-4 STERLING RTB [SRC logo]",
+				"STE-60464-A-1 1-1SM1-3 RTB STERLING [SRC logo]",
+				"STE-60464-B-1 1-2 STERLING RTB [SRC logo]",
+				"STE-60464-A-1 1-1 RTB STERLING [SRC logo]",
+				"STE-60464-B-2 1-1 STERLING RTB [SRC logo]",
+				"STE-60464-A-1 1-1SM1-2 RTB STERLING [SRC logo]",
+				"STE-60464-B-1 1-1SM1-1 RTB STERLING [SRC logo]",
+				"STE-60464-A-1 1-1 RTB STERLING [SRC logo]",
+				"STE-60464-B-2 1-2 STERLING RTB [SRC logo]",
+				"STE-60464-A-1 1-1 SM1-1 RTB STERLING [SRC logo]",
+				"STE-60464-B-2 1-1 STERLING RTB [SRC logo]"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69626,
+			"master_url": "https://api.discogs.com/masters/69626",
+			"uri": "/release/5365183-The-Cars-The-Cars-Greatest-Hits",
+			"catno": "9 60464-1-E",
+			"title": "The Cars - The Cars Greatest Hits",
+			"thumb": "https://i.discogs.com/3-4qTV0ZLf1EwKFfZ0-SAPj9mJ_9FcxdSXFkWTEN5B0/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNjUx/ODMtMTM5NDY3NDQ1/My03NjA2LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/1W_6uavL4XTBi3d4Cgrfqw5ghqPuz4w871TeRlOfEyI/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzNjUx/ODMtMTM5NDY3NDQ1/My03NjA2LmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/5365183",
+			"community": {
+				"want": 281,
+				"have": 3702
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"text": "SP - Specialty Pressing",
+					"descriptions": [
+						"LP",
+						"Compilation",
+						"Stereo"
+					]
+				}
+			]
+		},
+		{
+			"country": "US",
+			"year": "2023",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Album",
+				"Limited Edition",
+				"Numbered",
+				"Reissue"
+			],
+			"label": [
+				"Rhino Records",
+				"Rhino Records",
+				"Elektra",
+				"Elektra",
+				"Rhino High Fidelity",
+				"Rhino Records",
+				"Elektra/Asylum Records",
+				"Elektra/Asylum Records",
+				"Warner Music Group",
+				"RTB Audio Visual Productions",
+				"Lido Music",
+				"Oversnare Music",
+				"Rhino Entertainment Company",
+				"Rhino Entertainment Company",
+				"Sterling Sound",
+				"Cohearent Audio",
+				"Optimal Media GmbH"
+			],
+			"type": "release",
+			"genre": [
+				"Rock"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock"
+			],
+			"id": 27190293,
+			"barcode": [
+				"0 81227 83486 9",
+				"081227834869",
+				"GEMA/BIEM",
+				"BM80064-01 A1 RHF-135-A 081227834869 KPG@CA",
+				"BM80064-01 B1 RHF-135-B 081227834869 KPG@CA"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/release/27190293-The-Cars-The-Cars",
+			"catno": "RHF 135",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/WuTyE5cjvo9fO7vhV6b33nudrlHjBafYDqONBLBgJKo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTkw/MjkzLTE2ODUxNjAz/MjQtNTA1MS5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/lhbTXHrLoEOOo7RAOq-i6U70dVHGadPuRnoiE_4CR7o/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3MTkw/MjkzLTE2ODUxNjAz/MjQtNTA1MS5qcGVn.jpeg",
+			"resource_url": "https://api.discogs.com/releases/27190293",
+			"community": {
+				"want": 479,
+				"have": 1757
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"text": "180g, Gatefold",
+					"descriptions": [
+						"LP",
+						"Album",
+						"Limited Edition",
+						"Numbered",
+						"Reissue"
+					]
+				}
+			]
+		},
+		{
+			"country": "Canada",
+			"year": "1984",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Album"
+			],
+			"label": [
+				"Polydor",
+				"Polydor",
+				"Polygram Inc.",
+				"Polygram Distribution Inc.",
+				"Romantique Productions, Inc.",
+				"Disques Dreyfus",
+				"Larkfield Recording Studio",
+				"Westwind Studio",
+				"Larkfield Recording Studio",
+				"Black Keys Music",
+				"Screen Gems",
+				"Ross Vannelli Publishing",
+				"EMI Music",
+				"Columbia Records Pressing Plant, Don Mills, ON",
+				"Columbia Records Pressing Plant, Don Mills, ON"
+			],
+			"type": "master",
+			"genre": [
+				"Electronic",
+				"Rock",
+				"Pop"
+			],
+			"style": [
+				"Pop Rock",
+				"Synth-pop"
+			],
+			"id": 149240,
+			"barcode": [
+				"DM #",
+				"A PDS-1-6415",
+				"B PDS-1-6415",
+				"PDS-1-6415-A DM-11",
+				"PDS-1-6415-B DM-34"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 149240,
+			"master_url": "https://api.discogs.com/masters/149240",
+			"uri": "/master/149240-Gino-Vannelli-Black-Cars",
+			"catno": "PDS 1 6415",
+			"title": "Gino Vannelli - Black Cars",
+			"thumb": "https://i.discogs.com/gE8d0yt0iVnuw8NfX7g59lzKcDfK1HwBl1cXqllxUkU/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njky/NjEtMTMyOTU2ODc0/MS5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/__RzzvApAVwAAoZH35OPOzurvYu2qQGq7D1ocZMp3Lg/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0Njky/NjEtMTMyOTU2ODc0/MS5qcGVn.jpeg",
+			"resource_url": "https://api.discogs.com/masters/149240",
+			"community": {
+				"want": 949,
+				"have": 4256
+			}
+		},
+		{
+			"country": "Canada",
+			"year": "1978",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Album"
+			],
+			"label": [
+				"Elektra",
+				"WEA Music Of Canada, Ltd.",
+				"WEA Music Of Canada, Ltd.",
+				"Elektra/Asylum Records",
+				"Elektra/Asylum Records",
+				"Lido Music",
+				"Oversnare Music",
+				"Sterling Sound",
+				"London Records Of Canada (1967) Ltd."
+			],
+			"type": "release",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock",
+				"Synth-pop"
+			],
+			"id": 7586909,
+			"barcode": [
+				"1Y",
+				"ASCAP",
+				"BMI",
+				"6E-135A-1Y 6E-135 [stamped] 6E-135A-1Y 3A",
+				"6E-135B-1Y 6E-135 [stamped] 6E-135B-1Y 4A",
+				"6E-135A-1Y 1A",
+				"6E-135B-1Y 2A",
+				"6E-135A-1Y 2A  6E-135A-1Y  6E-135  T.",
+				"6E-135B-1Y 6A  6E-135B-1Y  6E-135  T.",
+				"6E-135A-IY 6E-135 [stamped] 6E-135A-IY 1A [mirrored] UK",
+				"6E-135B-IY 6E-135 [stamped] 6E-135B-IY 2A KU",
+				"6E-135A 1Y 6E-135 [Stamped] 6E-135A-1Y 1A UU ",
+				"(Indecipherable) 6E-135 [Stamped] 6E-135B-1Y 1A CD",
+				"6E-135A 1Y 6E-135 [Stamped] 6E-135A-1Y 2A  DI   ",
+				" 6E (more numbers obscured by label)  6E-135 [Stamped] 6E-135B-1Y 4A T DD  "
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/release/7586909-The-Cars-The-Cars",
+			"catno": "6E-135",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/ju_Lzqipf0nIFKHFRWUHpDYqv9zL_qBgZIY0C4W8dsc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODY5/MDktMTQ0NDU5NzU3/MS0zMjU4LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/xJzkbwMcsseEB237iAz1ZXFiUieP13G2dSQrmFcKITY/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1ODY5/MDktMTQ0NDU5NzU3/MS0zMjU4LmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/7586909",
+			"community": {
+				"want": 283,
+				"have": 1358
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"text": "London Records Pressing",
+					"descriptions": [
+						"LP",
+						"Album"
+					]
+				}
+			]
+		},
+		{
+			"country": "US",
+			"year": "2016",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Album",
+				"Limited Edition",
+				"Reissue"
+			],
+			"label": [
+				"Elektra",
+				"Elektra/Asylum Records",
+				"Elektra/Asylum Records",
+				"RTB (Audio/Visual) Productions Ltd.",
+				"Lido Music",
+				"Oversnare Music",
+				"Rhino Entertainment Company",
+				"Rhino Entertainment Company",
+				"Quality Record Pressings"
+			],
+			"type": "release",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock",
+				"Synth-pop"
+			],
+			"id": 8001970,
+			"barcode": [
+				"081227951702",
+				"R1-135-A  G1  MASTERED BY CAPITOL",
+				"R1-135-B  G1"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/release/8001970-The-Cars-The-Cars",
+			"catno": "R1 135",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/z2_AIPV6RyjxiMKIVfPQCRKTecK7QENC5I8yqgmX32A/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDE5/NzAtMTUxMTEwNzY4/Ni01NzkwLmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/UkPkbcj_0u3N_L34JsTgRs9FpVIgMA8ScrSmKCvMluk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgwMDE5/NzAtMTUxMTEwNzY4/Ni01NzkwLmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/8001970",
+			"community": {
+				"want": 537,
+				"have": 969
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"text": "Blue Translucent",
+					"descriptions": [
+						"LP",
+						"Album",
+						"Limited Edition",
+						"Reissue"
+					]
+				}
+			]
+		},
+		{
+			"country": "Canada",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"format": [
+				"Vinyl",
+				"LP",
+				"Album",
+				"Reissue"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock",
+				"Synth-pop"
+			],
+			"id": 1448211,
+			"label": [
+				"Elektra",
+				"WEA Music Of Canada, Ltd.",
+				"WEA Musique Du Canada Ltée.",
+				"WEA Music Of Canada, Ltd.",
+				"WEA Musique Du Canada Ltée.",
+				"Elektra/Asylum Records",
+				"Elektra/Asylum Records",
+				"Columbia Records Pressing Plant, Don Mills, ON"
+			],
+			"type": "release",
+			"barcode": [
+				"6E-135-A-1A-2HZ:",
+				"6E-135-B-1B-2HZ:"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/release/1448211-The-Cars-The-Cars",
+			"catno": "6E-135",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/fIB77Eczp8LNwZ1hecP2DcMFz28h7qpAyplVry9V-kI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDgy/MTEtMTMyNTQ1MTI5/OS5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/xddWhwPOzlBHtf075DPxfw7ivfU95wooAxT3vKCMqEk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDgy/MTEtMTMyNTQ1MTI5/OS5qcGVn.jpeg",
+			"resource_url": "https://api.discogs.com/releases/1448211",
+			"community": {
+				"want": 269,
+				"have": 941
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"descriptions": [
+						"LP",
+						"Album",
+						"Reissue"
+					]
+				}
+			]
+		},
+		{
+			"country": "Germany",
+			"year": "1979",
+			"format": [
+				"Vinyl",
+				"12\"",
+				"45 RPM",
+				"Maxi-Single",
+				"Stereo"
+			],
+			"label": [
+				"Beggars Banquet",
+				"Intercord Ton GmbH",
+				"Aves Records & Tapes",
+				"Beggars Banquet Ltd.",
+				"Slezak",
+				"Sonopress"
+			],
+			"type": "release",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"New Wave"
+			],
+			"id": 203667,
+			"barcode": [
+				"LC 5485",
+				"GEMA",
+				"A-4444 A",
+				"A-4444 B",
+				"A-4444 A-1/79S MADE IN GERMANY",
+				"A-4444 b-1/79S MADE IN GERMANY"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69171,
+			"master_url": "https://api.discogs.com/masters/69171",
+			"uri": "/release/203667-Gary-Numan-Cars",
+			"catno": "INT 126.502",
+			"title": "Gary Numan - Cars",
+			"thumb": "https://i.discogs.com/DeP_P7HZ5MTfxNLeEv3Q_dFtH0kV_2x0KosTnW_9WPk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzY2/Ny0xMTkxNDA1NTAy/LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/W193VXf1IFqapWVL57PUSP5RkDkwgzaLcgEczIUHZp0/rs:fit/g:sm/q:90/h:590/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMzY2/Ny0xMTkxNDA1NTAy/LmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/203667",
+			"community": {
+				"want": 399,
+				"have": 352
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"descriptions": [
+						"12\"",
+						"45 RPM",
+						"Maxi-Single",
+						"Stereo"
+					]
+				}
+			]
+		},
+		{
+			"country": "US",
+			"year": "1980",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Album",
+				"Remastered"
+			],
+			"label": [
+				"Nautilus Recordings",
+				"Elektra",
+				"JVC Cutting Center",
+				"JVC Cutting Center",
+				"KM Records Inc.",
+				"SuperDiscs",
+				"Elektra/Asylum/Nonesuch Records",
+				"Nautilus Recordings",
+				"Nautilus Recordings",
+				"Elektra/Asylum Records",
+				"Elektra/Asylum Records",
+				"Elektra/Asylum Records"
+			],
+			"type": "release",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock",
+				"Synth-pop"
+			],
+			"id": 2376906,
+			"barcode": [
+				"+ KM ++  NR-14-EL6E135-A1  KM-5513-A1  JG/2",
+				"+ KM  +  NR-14-EL6E135-B1  KM-5513-B1  JG/2",
+				"+ KM + NR-14-EL6E135-A2 KM-5513-A2 JG/2",
+				"+ KM  +  NR-14-EL6E135-B1  KM-5513-B1  JG/2",
+				"+ KM + NR-14-EL6E135-A2 KM-5513-A2 JG/2",
+				"+ KM  +  NR-14-EL6E135-B2  KM-5513-B2  JG/2"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/release/2376906-The-Cars-The-Cars",
+			"catno": "NR 14",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/cQ_9CCtAmGSG2Cb6RDPbqrFc8a3zGl0ImkAma7O5OHg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzY5/MDYtMTQwMDQxNjI0/MC01MDAzLmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/RCtQIQk8sl4kvC1h3xp2rPQhmKe2Obg0l2FryLvU5dQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzNzY5/MDYtMTQwMDQxNjI0/MC01MDAzLmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/2376906",
+			"community": {
+				"want": 437,
+				"have": 821
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"text": "Half-Speed Mastered",
+					"descriptions": [
+						"LP",
+						"Album",
+						"Remastered"
+					]
+				}
+			]
+		},
+		{
+			"country": "US",
+			"year": "2016",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Album",
+				"Reissue"
+			],
+			"label": [
+				"Elektra",
+				"Elektra/Asylum Records",
+				"Elektra/Asylum Records",
+				"RTB Audio Visual Productions",
+				"Lido Music",
+				"Oversnare Music",
+				"Rhino Entertainment Company",
+				"Rhino Entertainment Company",
+				"Quality Record Pressings"
+			],
+			"type": "release",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock",
+				"Synth-pop"
+			],
+			"id": 14864712,
+			"barcode": [
+				"081227951702",
+				"R1-135-A  G1  MASTERED BY CAPITOL",
+				"R1-135-B  G1"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/release/14864712-The-Cars-The-Cars",
+			"catno": "R1 135",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/C2fYxeifZg_hEzHQ_LxazYbsyyvEjmmAvzJY8QaGEHI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODY0/NzEyLTE2NTEzMzk1/NTEtMTczNC5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/ALsYqXN9LctT_VyacSaYbFRfDOEkBjV3KOxKIAsc5J8/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0ODY0/NzEyLTE2NTEzMzk1/NTEtMTczNC5qcGVn.jpeg",
+			"resource_url": "https://api.discogs.com/releases/14864712",
+			"community": {
+				"want": 274,
+				"have": 945
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"descriptions": [
+						"LP",
+						"Album",
+						"Reissue"
+					]
+				}
+			]
+		},
+		{
+			"country": "Canada",
+			"year": "1985",
+			"format": [
+				"Vinyl",
+				"7\"",
+				"Single",
+				"45 RPM"
+			],
+			"label": [
+				"Polydor",
+				"Polygram Inc.",
+				"Polygram Distribution Inc.",
+				"Romantique Productions, Inc.",
+				"Disques Dreyfus",
+				"Disques SNB Ltée.",
+				"Columbia Records Pressing Plant, Don Mills, ON",
+				"Columbia Records Pressing Plant, Don Mills, ON"
+			],
+			"type": "master",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"Pop Rock",
+				"Synth-pop"
+			],
+			"id": 152256,
+			"barcode": [
+				"DM-#",
+				"PDS 2279 A/45",
+				"PDS 2279 B/45",
+				"PDS 2279-A DM-16",
+				"PDS-2279B SNB 230 EL. DM-14"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 152256,
+			"master_url": "https://api.discogs.com/masters/152256",
+			"uri": "/master/152256-Gino-Vannelli-Black-Cars",
+			"catno": "PDS 2279",
+			"title": "Gino Vannelli - Black Cars",
+			"thumb": "https://i.discogs.com/w3hShVNTGvQ57B0cOLTSYgxGSpjNkZg0eT4Dvpui5WI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NDYx/Ny0xMjcyNDIxNjc4/LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/yzv9-LmmWoK2wYjdeFZQGpZSiDIfzgUaK9Tyvp-hBj0/rs:fit/g:sm/q:90/h:574/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1NDYx/Ny0xMjcyNDIxNjc4/LmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/masters/152256",
+			"community": {
+				"want": 582,
+				"have": 2209
+			}
+		},
+		{
+			"country": "Germany",
+			"year": "1979",
+			"format": [
+				"Vinyl",
+				"7\"",
+				"45 RPM",
+				"Single",
+				"Stereo"
+			],
+			"label": [
+				"Beggars Banquet",
+				"Intercord Ton GmbH",
+				"Aves Records & Tapes",
+				"Slezak",
+				"Beggars Banquet Ltd.",
+				"Beggars Banquet",
+				"Beggars Banquet",
+				"Sonopress"
+			],
+			"type": "release",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"New Wave",
+				"Synth-pop"
+			],
+			"id": 1194264,
+			"barcode": [
+				"LC 5485",
+				"GEMA",
+				"A-4411 A",
+				"A-4411 B",
+				"A-4411 A-1/79S Made in Germany",
+				"A-4411 B-1/79S Made in Germany",
+				"A-4411 A-1/79S II Made in Germany",
+				"A-4411 B-1/79S Made in Germany",
+				"A-4411 A-1/79S II Made in Germany",
+				"A-4411 B-1/79S II Made in Germany"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69171,
+			"master_url": "https://api.discogs.com/masters/69171",
+			"uri": "/release/1194264-Gary-Numan-Cars",
+			"catno": "INT 111.524",
+			"title": "Gary Numan - Cars",
+			"thumb": "https://i.discogs.com/2M1vbG3mFLUP9i3RZbbj-UPa5d5MARA4hVsNmz_JxJg/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQy/NjQtMTM2NTY5NTMy/My0zNjczLmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/UoLU6xONfsuScnUIBXB4zKU8CV_9AknZY-V7noEq4xk/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExOTQy/NjQtMTM2NTY5NTMy/My0zNjczLmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/1194264",
+			"community": {
+				"want": 144,
+				"have": 609
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"descriptions": [
+						"7\"",
+						"45 RPM",
+						"Single",
+						"Stereo"
+					]
+				}
+			]
+		},
+		{
+			"country": "UK",
+			"year": "2013",
+			"format": [
+				"CDr",
+				"EP",
+				"Promo"
+			],
+			"label": [
+				"Dirty Hit"
+			],
+			"type": "master",
+			"genre": [
+				"Rock",
+				"Pop"
+			],
+			"style": [
+
+			],
+			"id": 735263,
+			"barcode": [
+
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 735263,
+			"master_url": "https://api.discogs.com/masters/735263",
+			"uri": "/master/735263-1975-Music-For-Cars",
+			"catno": "none",
+			"title": "The 1975 - Music For Cars",
+			"thumb": "https://i.discogs.com/ystZkyzPyORwUDcjEfyvmICnaNE5Gr7pY0MtBMLB_lE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mjkx/MTEtMTQ1MTk4Mjk1/Ny04NDU2LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/BnmyTzREE73DNSSnAqCainy69YJv1fVSFGd-4R8Snbw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTU5Mjkx/MTEtMTQ1MTk4Mjk1/Ny04NDU2LmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/masters/735263",
+			"community": {
+				"want": 1781,
+				"have": 2460
+			}
+		},
+		{
+			"country": "Australia",
+			"year": "1978",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Album"
+			],
+			"label": [
+				"Elektra",
+				"Elektra/Asylum Records",
+				"Elektra/Asylum Records",
+				"WEA Records Pty. Limited",
+				"WEA Records Pty. Limited",
+				"Sterling Sound",
+				"Copyright Control"
+			],
+			"type": "release",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock",
+				"Synth-pop"
+			],
+			"id": 4722625,
+			"barcode": [
+				"MX 185855 6E 135-1",
+				"MX 185856 6E 135-2"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/release/4722625-The-Cars-The-Cars",
+			"catno": "6E-135",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/Wi69bJ4Nmbg2x8ycc82tOi0k9cVsB9PmgtXqUbjHLxY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjI2/MjUtMTQ3NDA5MDUw/OC00MTg3LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/84xurwKCrHj_8L5LESwRzP8rjtowN17pWH7OXfgObGI/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ3MjI2/MjUtMTQ3NDA5MDUw/OC00MTg3LmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/4722625",
+			"community": {
+				"want": 305,
+				"have": 871
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"descriptions": [
+						"LP",
+						"Album"
+					]
+				}
+			]
+		},
+		{
+			"country": "US",
+			"year": "1978",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Album",
+				"Stereo"
+			],
+			"label": [
+				"Elektra",
+				"Elektra Records",
+				"Elektra/Asylum Records",
+				"Elektra/Asylum/Nonesuch Records",
+				"Lido Music",
+				"Oversnare Music",
+				"Columbia Records Pressing Plant, Terre Haute"
+			],
+			"type": "release",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock",
+				"Synth-pop"
+			],
+			"id": 3173411,
+			"barcode": [
+				"BMI",
+				"ASCAP",
+				"6E 135 A-1C 1T ",
+				"6E 135 B-1E 1T "
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/release/3173411-The-Cars-The-Cars",
+			"catno": "6E-135",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/YpmUcCha2OO_L02pAoXtrydikAb71tePDz4WiXgTOCE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzM0/MTEtMTMxOTA1Nzg1/NC5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/6-n0dD_JTWOh4KRuM1rhfDTVP_mx3XtAIHSmbzBkPsk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzM0/MTEtMTMxOTA1Nzg1/NC5qcGVn.jpeg",
+			"resource_url": "https://api.discogs.com/releases/3173411",
+			"community": {
+				"want": 346,
+				"have": 673
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"text": "Terre Haute Pressing",
+					"descriptions": [
+						"LP",
+						"Album",
+						"Stereo"
+					]
+				}
+			]
+		},
+		{
+			"country": "US",
+			"year": "1979",
+			"format": [
+				"Vinyl",
+				"7\"",
+				"45 RPM",
+				"Single",
+				"Styrene",
+				"Stereo"
+			],
+			"label": [
+				"ATCO Records",
+				"Beggars Banquet",
+				"Beggars Banquet Music Ltd.",
+				"Andrew Heath Music Ltd.",
+				"Atlantic Recording Corporation",
+				"Warner Communications",
+				"Marcus Recording Studios",
+				"Atlantic Studios",
+				"Monarch Record Mfg. Co.",
+				"Monarch Record Mfg. Co."
+			],
+			"type": "release",
+			"genre": [
+				"Electronic"
+			],
+			"style": [
+				"New Wave"
+			],
+			"id": 3839661,
+			"barcode": [
+				"PRS",
+				"ST-79C-37790 MO",
+				"ST-79C-37783 MO",
+				"ST·79C 37790·14 @tGP ∆106567 7211",
+				"ST-C-37783-4 @tGP M-2 (MR) ∆106546"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69171,
+			"master_url": "https://api.discogs.com/masters/69171",
+			"uri": "/release/3839661-Gary-Numan-Cars",
+			"catno": "7211",
+			"title": "Gary Numan - Cars",
+			"thumb": "https://i.discogs.com/YnXqUz3-rIU14vwhOoJVDrtRnQbnTtbPGRW7iT2atpo/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzk2/NjEtMTQ5ODkyODM2/NS01NzcwLmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/dwV8oWXNgk7bghJHq0uMRpUkZJ6YIWVMgF7PkpLK7kI/rs:fit/g:sm/q:90/h:602/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM4Mzk2/NjEtMTQ5ODkyODM2/NS01NzcwLmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/3839661",
+			"community": {
+				"want": 104,
+				"have": 493
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"text": "Monarch Pressing",
+					"descriptions": [
+						"7\"",
+						"45 RPM",
+						"Single",
+						"Styrene",
+						"Stereo"
+					]
+				}
+			]
+		},
+		{
+			"country": "US",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"format": [
+				"Vinyl",
+				"LP",
+				"Album",
+				"Club Edition",
+				"Stereo"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock",
+				"Synth-pop"
+			],
+			"id": 4556054,
+			"label": [
+				"Elektra",
+				"Elektra/Asylum/Nonesuch Records",
+				"RCA Music Service",
+				"Sterling Sound",
+				"Specialty Records Corporation"
+			],
+			"type": "release",
+			"barcode": [
+				"R144033A",
+				"R144033B",
+				"6E-135-A-SP",
+				"6E-135-B-SP",
+				"SP"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/release/4556054-The-Cars-The-Cars",
+			"catno": "6E-135",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/5NglubU-S1s2O0wBejEt5X2G29Q7OmDzfr0DnOFqSh8/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTYw/NTQtMTQ5NzY1MDM4/MS0yMTY1LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/ot_jeyl2nn-VEPhCf0LjTztNJtcRrBNqFEoFU0lJp6o/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ1NTYw/NTQtMTQ5NzY1MDM4/MS0yMTY1LmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/4556054",
+			"community": {
+				"want": 331,
+				"have": 746
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"text": "SP-Specialty Pressing",
+					"descriptions": [
+						"LP",
+						"Album",
+						"Club Edition",
+						"Stereo"
+					]
+				}
+			]
+		},
+		{
+			"country": "US",
+			"year": "2015",
+			"format": [
+				"SACD",
+				"Hybrid",
+				"Stereo",
+				"Album",
+				"Limited Edition",
+				"Numbered",
+				"Remastered"
+			],
+			"label": [
+				"Mobile Fidelity Sound Lab",
+				"Original Master Recording",
+				"Ultradisc UHR",
+				"Elektra Entertainment Group",
+				"Mobile Fidelity Sound Lab, Inc.",
+				"Lido Music",
+				"Rhino Entertainment Company",
+				"Elektra Entertainment Group",
+				"Mobile Fidelity Sound Lab",
+				"Sony DADC",
+				"Sony DADC"
+			],
+			"type": "release",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock",
+				"Synth-pop"
+			],
+			"id": 8481465,
+			"barcode": [
+				"821797216265",
+				"8 21797-21626 5",
+				"Sony DADC A0102615310-A911 17 A00",
+				"IFPI L557",
+				"Sony DADC A0102615310-B911 18 A00",
+				"IFPI L558",
+				"IFPI 94B1"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/release/8481465-The-Cars-The-Cars",
+			"catno": "UDSACD 2162",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/rM8fp9yJGmfDFaEvEwF52gRBbngJQmHaEt3-UR6O_hc/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODE0/NjUtMTQ2NDQ4MDYy/NC03NTMxLmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/c9-ltZoAlnueZafBipy2kcna6fJ9pyByotY6rM7Xe20/rs:fit/g:sm/q:90/h:612/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg0ODE0/NjUtMTQ2NDQ4MDYy/NC03NTMxLmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/8481465",
+			"community": {
+				"want": 278,
+				"have": 672
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "SACD",
+					"qty": "1",
+					"descriptions": [
+						"Hybrid",
+						"Stereo",
+						"Album",
+						"Limited Edition",
+						"Numbered",
+						"Remastered"
+					]
+				}
+			]
+		},
+		{
+			"country": "Germany",
+			"year": "1999",
+			"format": [
+				"CD",
+				"Maxi-Single"
+			],
+			"label": [
+				"City Slang",
+				"AGI, USA",
+				"EFA",
+				"Van De Steeg",
+				"City Slang",
+				"City Slang",
+				"DOCdata Germany",
+				"City Slang Musikverlag",
+				"Electric Avenue Studio",
+				"Electric Avenue Studio",
+				"Calyx Mastering",
+				"Calyx Mastering"
+			],
+			"type": "master",
+			"genre": [
+				"Electronic"
+			],
+			"style": [
+				"Abstract",
+				"Experimental"
+			],
+			"id": 54411,
+			"barcode": [
+				"7 18750 87242 5",
+				"718750872425",
+				"LC 06853",
+				"DOCdata Germany ELDORADO SLANG 08724",
+				"IFPI L357",
+				"IFPI 5223",
+				"GEMA"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 54411,
+			"master_url": "https://api.discogs.com/masters/54411",
+			"uri": "/master/54411-To-Rococo-Rot-Cars",
+			"catno": "08724-2",
+			"title": "To Rococo Rot - Cars",
+			"thumb": "https://i.discogs.com/AmK2TDmdJLuielrjcqBjBvaskpxxVncJQEhEnlb7Zik/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg2/NjQxLTE1NjcxNzUx/ODAtNDExOC5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/rnQJjwO0PDsbJ6VF4k6QxCn-ok9H9mxuWynXp-wZwqE/rs:fit/g:sm/q:90/h:526/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNjg2/NjQxLTE1NjcxNzUx/ODAtNDExOC5qcGVn.jpeg",
+			"resource_url": "https://api.discogs.com/masters/54411",
+			"community": {
+				"want": 105,
+				"have": 386
+			}
+		},
+		{
+			"country": "Europe",
+			"year": "1988",
+			"format": [
+				"Vinyl",
+				"12\"",
+				"45 RPM",
+				"Maxi-Single"
+			],
+			"label": [
+				"CBS",
+				"Kitchenware Records",
+				"CBS Records",
+				"CBS Records",
+				"CBS Records",
+				"CBS Disques S.A."
+			],
+			"type": "master",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"Pop Rock",
+				"Synth-pop",
+				"Indie Rock"
+			],
+			"id": 25748,
+			"barcode": [
+				"01 - 653178 - 2A - 1",
+				"01 - 653178 - 1B - 1",
+				"5 099765 137866",
+				"BIEM/STEMRA",
+				"LC 0149",
+				"CB 181",
+				"TA"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 25748,
+			"master_url": "https://api.discogs.com/masters/25748",
+			"uri": "/master/25748-Prefab-Sprout-Cars-And-Girls",
+			"catno": "651378 6",
+			"title": "Prefab Sprout - Cars And Girls",
+			"thumb": "https://i.discogs.com/zsITiwO7UOQmO3vrPQ6RHDIavQj-oBFBs93U6KeXTkQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzcw/OC0xMzA1MjE1MDM5/LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/Ka9ashC2665dwXx_zs4sg6s9D6k36eIJ_n-wHKD-UMM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM3Mzcw/OC0xMzA1MjE1MDM5/LmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/masters/25748",
+			"community": {
+				"want": 1178,
+				"have": 2441
+			}
+		},
+		{
+			"country": "UK & Europe",
+			"year": "2016",
+			"format": [
+				"Vinyl",
+				"LP",
+				"Album",
+				"Limited Edition",
+				"Reissue"
+			],
+			"label": [
+				"Elektra",
+				"Rhino Records",
+				"Elektra/Asylum Records",
+				"Elektra/Asylum Records",
+				"RTB (Audio/Visual) Productions Ltd.",
+				"Lido Music",
+				"Oversnare Music",
+				"Rhino Entertainment Company",
+				"Rhino Entertainment Company",
+				"Capitol Mastering",
+				"MPO"
+			],
+			"type": "release",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock",
+				"Synth-pop"
+			],
+			"id": 8524337,
+			"barcode": [
+				"R1-135-A  G1  MASTERED BY CAPITOL",
+				"R1-135-B  G1",
+				"081227951702",
+				"LC 02982"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/release/8524337-The-Cars-The-Cars",
+			"catno": "081227951702",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/mvh1QukSxFb6BH6vVvGvWxKgsnnOKQw0UUtm-Mx_XOQ/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MjQz/MzctMTQ4NDYyMDc5/Mi04MTU4LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/YOSeWsoVYZwlRBtKc4VjocNerjE6X6SSW4hfTmvDWxU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1MjQz/MzctMTQ4NDYyMDc5/Mi04MTU4LmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/8524337",
+			"community": {
+				"want": 428,
+				"have": 422
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"text": "Blue Translucent",
+					"descriptions": [
+						"LP",
+						"Album",
+						"Limited Edition",
+						"Reissue"
+					]
+				}
+			]
+		},
+		{
+			"country": "Canada",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"format": [
+				"Vinyl",
+				"LP",
+				"Album",
+				"Reissue"
+			],
+			"style": [
+				"New Wave",
+				"Pop Rock",
+				"Synth-pop"
+			],
+			"id": 7367430,
+			"label": [
+				"Elektra",
+				"WEA Music Of Canada, Ltd.",
+				"WEA Musique Du Canada Ltée.",
+				"WEA Music Of Canada, Ltd.",
+				"WEA Musique Du Canada Ltée.",
+				"Elektra/Asylum Records",
+				"Elektra/Asylum Records",
+				"Lido Music",
+				"Oversnare Music",
+				"RTB (Audio/Visual) Productions Ltd.",
+				"Sterling Sound",
+				"Customatrix",
+				"Columbia Records Pressing Plant, Don Mills, ON",
+				"Columbia Records Pressing Plant, Don Mills, ON",
+				"Warner Communications"
+			],
+			"type": "release",
+			"barcode": [
+				"BMI / ASCAP",
+				"BMI",
+				"C",
+				"6E-135A-1A-2HZ:",
+				"6E-135-B-1B-2HZ:",
+				"6E-135A-1A-2HZ: 0",
+				"6E-135-B-1B-2HZ: 0"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69666,
+			"master_url": "https://api.discogs.com/masters/69666",
+			"uri": "/release/7367430-The-Cars-The-Cars",
+			"catno": "6E-135",
+			"title": "The Cars - The Cars",
+			"thumb": "https://i.discogs.com/SMXdtRm9JKyatJ2lfPcJoS2IuR54S1rylFu-KeBIOBs/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjc0/MzAtMTQzOTk1Njc2/Ny03OTE1LmpwZWc.jpeg",
+			"cover_image": "https://i.discogs.com/eWo-HbybjG9aZtbsuBLQ_PpzeN5LFnQlvFMqOXjKg3o/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTczNjc0/MzAtMTQzOTk1Njc2/Ny03OTE1LmpwZWc.jpeg",
+			"resource_url": "https://api.discogs.com/releases/7367430",
+			"community": {
+				"want": 241,
+				"have": 695
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"text": "Don Mills Pressing",
+					"descriptions": [
+						"LP",
+						"Album",
+						"Reissue"
+					]
+				}
+			]
+		},
+		{
+			"country": "Europe",
+			"year": "1999",
+			"format": [
+				"CD",
+				"Single",
+				"Stereo"
+			],
+			"label": [
+				"Roadrunner Records",
+				"Roadrunner Records",
+				"The All Blacks B.V.",
+				"The All Blacks B.V.",
+				"The All Blacks B.V.",
+				"Beggars Banquet Ltd.",
+				"Warner-Tamerlane Publishing Corp.",
+				"Roadblock Music, Inc.",
+				"Hatefile Music",
+				"Roadster Music B.V.",
+				"X-Panding Limits Studio",
+				"Hourglass",
+				"Sonopress"
+			],
+			"type": "release",
+			"genre": [
+				"Electronic",
+				"Rock"
+			],
+			"style": [
+				"Hardcore",
+				"Techno",
+				"Nu Metal",
+				"Industrial",
+				"Big Beat"
+			],
+			"id": 231931,
+			"barcode": [
+				"016861218935",
+				"0 16861 21893 5",
+				"LC 9231",
+				"STEMRA",
+				"BMI",
+				"ASCAP",
+				"CB 608",
+				"R5002.2",
+				"['Sonopress' logo] Z-9243/ RR21893 A",
+				"none",
+				"IFPI 0745",
+				"['Sonopress' logo] Z-9243/ RR21893 A",
+				"IFPI LB 47",
+				"IFPI 0719",
+				"['Sonopress' logo] Z-9243/ RR21893 A",
+				"none",
+				"IFPI 0744",
+				"['Sonopress' logo] Z-9243/ RR21893 A",
+				"IFPI LB 47",
+				"IFPI 0745"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 28628,
+			"master_url": "https://api.discogs.com/masters/28628",
+			"uri": "/Fear-Factory-Cars/release/231931",
+			"catno": "RR 2189-3",
+			"title": "Fear Factory - Cars",
+			"thumb": "https://i.discogs.com/z62mnzpg9JMa4ZCUlKsdLTXkcis7hmZLfc6wpq50UoE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTkz/MS0xNjE1MTM4MTc4/LTI4NTguanBlZw.jpeg",
+			"cover_image": "https://i.discogs.com/59PjkkbX2XnaHw6XwhvYS_SwEMX2Dmbndr4qJ5VZqfE/rs:fit/g:sm/q:90/h:529/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIzMTkz/MS0xNjE1MTM4MTc4/LTI4NTguanBlZw.jpeg",
+			"resource_url": "https://api.discogs.com/releases/231931",
+			"community": {
+				"want": 61,
+				"have": 519
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "CD",
+					"qty": "1",
+					"descriptions": [
+						"Single",
+						"Stereo"
+					]
+				}
+			]
+		},
+		{
+			"country": "UK",
+			"year": "1979",
+			"format": [
+				"Vinyl",
+				"7\"",
+				"45 RPM",
+				"Single",
+				"Misprint",
+				"Stereo"
+			],
+			"label": [
+				"Beggars Banquet",
+				"Beggars Banquet",
+				"Warner Communications",
+				"Beggars Banquet",
+				"Beggars Banquet",
+				"Andrew Heath Music Ltd.",
+				"Strawberry Mastering"
+			],
+			"type": "release",
+			"genre": [
+				"Electronic"
+			],
+			"style": [
+				"Synth-pop"
+			],
+			"id": 1396644,
+			"barcode": [
+				"BEG 23/A5 STRAWBERRY Made In France",
+				"BEG 23/B4 STRAWBERRY Made In France"
+			],
+			"user_data": {
+				"in_wantlist": false,
+				"in_collection": false
+			},
+			"master_id": 69171,
+			"master_url": "https://api.discogs.com/masters/69171",
+			"uri": "/release/1396644-Gary-Numan-Cars",
+			"catno": "BEG 23",
+			"title": "Gary Numan - Cars",
+			"thumb": "https://i.discogs.com/b0SX1q_DbiYKgSRuc8zANerbEkmvKydPzwI4Fd4O6dM/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTY2/NDQtMTIzNTA1NTQ5/Ny5qcGVn.jpeg",
+			"cover_image": "https://i.discogs.com/0jCpPRFVZxCGEgf6zDLTboXHaGH568RZUIHYqNAOUPM/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzOTY2/NDQtMTIzNTA1NTQ5/Ny5qcGVn.jpeg",
+			"resource_url": "https://api.discogs.com/releases/1396644",
+			"community": {
+				"want": 125,
+				"have": 398
+			},
+			"format_quantity": 1,
+			"formats": [
+				{
+					"name": "Vinyl",
+					"qty": "1",
+					"text": "Silver Injection-moulded Labels",
+					"descriptions": [
+						"7\"",
+						"45 RPM",
+						"Single",
+						"Misprint",
+						"Stereo"
+					]
+				}
+			]
+		}
+	]
+}

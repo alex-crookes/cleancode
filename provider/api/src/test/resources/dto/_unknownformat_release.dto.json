@@ -1,0 +1,331 @@
+{
+    "id": 69666,
+    "main_release": 190219,
+    "most_recent_release": 27190293,
+    "resource_url": "https://api.discogs.com/masters/69666",
+    "uri": "https://www.discogs.com/master/69666-The-Cars-The-Cars",
+    "versions_url": "https://api.discogs.com/masters/69666/versions",
+    "main_release_url": "https://api.discogs.com/releases/190219",
+    "most_recent_release_url": "https://api.discogs.com/releases/27190293",
+    "num_for_sale": 1093,
+    "lowest_price": 1.35,
+    "images": [
+        {
+            "type": "primary",
+            "uri": "https://i.discogs.com/mQ4p8rs4QCkWGIUV36RxMK41r3w-paGDsHmPYFZwydA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xMzE5MDU0ODYz/LmpwZWc.jpeg",
+            "resource_url": "https://i.discogs.com/mQ4p8rs4QCkWGIUV36RxMK41r3w-paGDsHmPYFZwydA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xMzE5MDU0ODYz/LmpwZWc.jpeg",
+            "uri150": "https://i.discogs.com/QcC25VHTg_DmOPorf8jcKM6shRcjMUHOn_N5GrdavW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xMzE5MDU0ODYz/LmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/SVUBdFS3qb8ji9xYIK8Tcl1jBYgnjUiXUGJ8-Mry2yA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xMzE5MDU0ODcy/LmpwZWc.jpeg",
+            "resource_url": "https://i.discogs.com/SVUBdFS3qb8ji9xYIK8Tcl1jBYgnjUiXUGJ8-Mry2yA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xMzE5MDU0ODcy/LmpwZWc.jpeg",
+            "uri150": "https://i.discogs.com/3vv6_8lbdzR00lFqpbXGLkFE4bAvtKoK6MwK23fJhQI/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xMzE5MDU0ODcy/LmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/q97Vq_dGLcaMhRq1_ee09jGYb0MJ8m5_U9h0zaRmJZI/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xNDM1MzkwNDEy/LTkwNTguanBlZw.jpeg",
+            "resource_url": "https://i.discogs.com/q97Vq_dGLcaMhRq1_ee09jGYb0MJ8m5_U9h0zaRmJZI/rs:fit/g:sm/q:90/h:589/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xNDM1MzkwNDEy/LTkwNTguanBlZw.jpeg",
+            "uri150": "https://i.discogs.com/rw8helbq13KHjJr3ETnWGgEpDZQ_GWta2VcKH6hyPzE/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xNDM1MzkwNDEy/LTkwNTguanBlZw.jpeg",
+            "width": 600,
+            "height": 589
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/nzzu9cNXLX87_bkDSs794CpTIahabtVLZ_gLvEK5CPk/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xNDM1MzkwNDEy/LTk3OTcuanBlZw.jpeg",
+            "resource_url": "https://i.discogs.com/nzzu9cNXLX87_bkDSs794CpTIahabtVLZ_gLvEK5CPk/rs:fit/g:sm/q:90/h:603/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xNDM1MzkwNDEy/LTk3OTcuanBlZw.jpeg",
+            "uri150": "https://i.discogs.com/Ll9J7EgEfcm3QvReQt9IA-puEi3kehApn4nJ2lYlb2g/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xNDM1MzkwNDEy/LTk3OTcuanBlZw.jpeg",
+            "width": 600,
+            "height": 603
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/5p4wY7Xkna3DvlE9bE3dIlrj_MQLq8fPrg_shvyoLkw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xMzE5MDU0ODgw/LmpwZWc.jpeg",
+            "resource_url": "https://i.discogs.com/5p4wY7Xkna3DvlE9bE3dIlrj_MQLq8fPrg_shvyoLkw/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xMzE5MDU0ODgw/LmpwZWc.jpeg",
+            "uri150": "https://i.discogs.com/dvzW7XlfPFBvdim0xdQsPmrm6rpnWiMkyQ9j7k--UEA/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xMzE5MDU0ODgw/LmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/Twmi8S35tig9jFAA7cVU387E63-jv1zfZ1ivXm7dULs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xMzE5MDU0ODkw/LmpwZWc.jpeg",
+            "resource_url": "https://i.discogs.com/Twmi8S35tig9jFAA7cVU387E63-jv1zfZ1ivXm7dULs/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xMzE5MDU0ODkw/LmpwZWc.jpeg",
+            "uri150": "https://i.discogs.com/wxRaP3Lgacu0kMwHUzVxfoFXIT588J9H3OXv-HXYR58/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xMzE5MDU0ODkw/LmpwZWc.jpeg",
+            "width": 600,
+            "height": 600
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/8qbgoncTSZYqzOyI3Hlv9p86lNJ9VBxazWg1wThkQOM/rs:fit/g:sm/q:90/h:258/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xNDY3OTMwNzkz/LTI4MTAuanBlZw.jpeg",
+            "resource_url": "https://i.discogs.com/8qbgoncTSZYqzOyI3Hlv9p86lNJ9VBxazWg1wThkQOM/rs:fit/g:sm/q:90/h:258/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xNDY3OTMwNzkz/LTI4MTAuanBlZw.jpeg",
+            "uri150": "https://i.discogs.com/8fOVW0Q05vUJ5UmlLrVbYh9eGVeQgl9k-LdCbLJwSdk/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xNDY3OTMwNzkz/LTI4MTAuanBlZw.jpeg",
+            "width": 600,
+            "height": 258
+        },
+        {
+            "type": "secondary",
+            "uri": "https://i.discogs.com/sB6pn0_rZCc5zvQKBTpYN8nVRqthdTD9pDdJwfZVpRY/rs:fit/g:sm/q:90/h:846/w:541/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xNjk3OTE5ODUy/LTQ3MjQuanBlZw.jpeg",
+            "resource_url": "https://i.discogs.com/sB6pn0_rZCc5zvQKBTpYN8nVRqthdTD9pDdJwfZVpRY/rs:fit/g:sm/q:90/h:846/w:541/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xNjk3OTE5ODUy/LTQ3MjQuanBlZw.jpeg",
+            "uri150": "https://i.discogs.com/3cLXuvoTMf9xA7ILiEsUABHBiv1dPXZLiGy-C4Ljx6Q/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xNjk3OTE5ODUy/LTQ3MjQuanBlZw.jpeg",
+            "width": 541,
+            "height": 846
+        }
+    ],
+    "genres": [
+        "Rock"
+    ],
+    "styles": [
+        "New Wave",
+        "Pop Rock",
+        "Power Pop"
+    ],
+    "year": 1978,
+    "tracklist": [
+        {
+            "position": "A1",
+            "type_": "track",
+            "title": "Good Times Roll",
+            "extraartists": [
+                {
+                    "name": "Ric Ocasek",
+                    "anv": "",
+                    "join": "",
+                    "role": "Songwriter",
+                    "tracks": "",
+                    "id": 113688,
+                    "resource_url": "https://api.discogs.com/artists/113688"
+                }
+            ],
+            "duration": "3:44"
+        },
+        {
+            "position": "A2",
+            "type_": "track",
+            "title": "My Best Friend's Girl",
+            "extraartists": [
+                {
+                    "name": "Ric Ocasek",
+                    "anv": "",
+                    "join": "",
+                    "role": "Songwriter",
+                    "tracks": "",
+                    "id": 113688,
+                    "resource_url": "https://api.discogs.com/artists/113688"
+                }
+            ],
+            "duration": "3:44"
+        },
+        {
+            "position": "A3",
+            "type_": "track",
+            "title": "Just What I Needed",
+            "extraartists": [
+                {
+                    "name": "Ric Ocasek",
+                    "anv": "",
+                    "join": "",
+                    "role": "Songwriter",
+                    "tracks": "",
+                    "id": 113688,
+                    "resource_url": "https://api.discogs.com/artists/113688"
+                }
+            ],
+            "duration": "3:44"
+        },
+        {
+            "position": "A4",
+            "type_": "track",
+            "title": "I'm In Touch With Your World",
+            "extraartists": [
+                {
+                    "name": "Ric Ocasek",
+                    "anv": "",
+                    "join": "",
+                    "role": "Songwriter",
+                    "tracks": "",
+                    "id": 113688,
+                    "resource_url": "https://api.discogs.com/artists/113688"
+                }
+            ],
+            "duration": "3:31"
+        },
+        {
+            "position": "A5",
+            "type_": "track",
+            "title": "Don't Cha Stop",
+            "extraartists": [
+                {
+                    "name": "Ric Ocasek",
+                    "anv": "",
+                    "join": "",
+                    "role": "Songwriter",
+                    "tracks": "",
+                    "id": 113688,
+                    "resource_url": "https://api.discogs.com/artists/113688"
+                }
+            ],
+            "duration": "3:01"
+        },
+        {
+            "position": "B1",
+            "type_": "track",
+            "title": "You're All I've Got Tonight",
+            "extraartists": [
+                {
+                    "name": "Ric Ocasek",
+                    "anv": "",
+                    "join": "",
+                    "role": "Songwriter",
+                    "tracks": "",
+                    "id": 113688,
+                    "resource_url": "https://api.discogs.com/artists/113688"
+                }
+            ],
+            "duration": "4:13"
+        },
+        {
+            "position": "B2",
+            "type_": "track",
+            "title": "Bye Bye Love",
+            "extraartists": [
+                {
+                    "name": "Ric Ocasek",
+                    "anv": "",
+                    "join": "",
+                    "role": "Songwriter",
+                    "tracks": "",
+                    "id": 113688,
+                    "resource_url": "https://api.discogs.com/artists/113688"
+                }
+            ],
+            "duration": "4:14"
+        },
+        {
+            "position": "B3",
+            "type_": "track",
+            "title": "Moving In Stereo",
+            "extraartists": [
+                {
+                    "name": "Greg Hawkes",
+                    "anv": "",
+                    "join": "",
+                    "role": "Songwriter",
+                    "tracks": "",
+                    "id": 307126,
+                    "resource_url": "https://api.discogs.com/artists/307126"
+                },
+                {
+                    "name": "Ric Ocasek",
+                    "anv": "",
+                    "join": "",
+                    "role": "Songwriter",
+                    "tracks": "",
+                    "id": 113688,
+                    "resource_url": "https://api.discogs.com/artists/113688"
+                }
+            ],
+            "duration": "5:15"
+        },
+        {
+            "position": "B4",
+            "type_": "track",
+            "title": "All Mixed Up",
+            "extraartists": [
+                {
+                    "name": "Ric Ocasek",
+                    "anv": "",
+                    "join": "",
+                    "role": "Songwriter",
+                    "tracks": "",
+                    "id": 113688,
+                    "resource_url": "https://api.discogs.com/artists/113688"
+                }
+            ],
+            "duration": "4:14"
+        }
+    ],
+    "artists": [
+        {
+            "name": "The Cars",
+            "anv": "",
+            "join": "",
+            "role": "",
+            "tracks": "",
+            "id": 143225,
+            "resource_url": "https://api.discogs.com/artists/143225",
+            "thumbnail_url": "https://i.discogs.com/hBLb15FaEFeVs3VUMBOq_Q5r20F6wc4vDvjSyqdaxRY/rs:fit/g:sm/q:40/h:345/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTE0MzIy/NS0xNjY0NTEyMzAy/LTU1MzAuanBlZw.jpeg"
+        }
+    ],
+    "title": "The Cars",
+    "notes": "The cover model was Nataliya Medvedeva, a Russian-born model ",
+    "data_quality": "Correct",
+    "videos": [
+        {
+            "uri": "https://www.youtube.com/watch?v=Ki6xHnDAwHw",
+            "title": "Good Times Roll",
+            "description": "Provided to YouTube by Elektra Records\n\nGood Times Roll · The Cars\n\nThe Cars\n\n℗ 1978 Elektra/Asylum Records\n\nBass  Guitar: Benjamin Orr\nBacking  Vocals: Benjamin Orr\nDrums, Percussion: David Robinson\nDrum  Programmer: David Robinson\nBacking  Vocals: Da",
+            "duration": 225,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=j-dfrHkaXuE",
+            "title": "My Best Friend's Girl",
+            "description": "Provided to YouTube by Elektra Records\n\nMy Best Friend's Girl · The Cars\n\nThe Cars\n\n℗ 1978 Elektra/Asylum Records\n\nBass  Guitar: Benjamin Orr\nBacking  Vocals: Benjamin Orr\nDrums, Percussion: David Robinson\nDrum  Programmer: David Robinson\nBacking  Voca",
+            "duration": 224,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=naOzftxOKig",
+            "title": "Just What I Needed",
+            "description": "Provided to YouTube by Elektra Records\n\nJust What I Needed · The Cars\n\nThe Cars\n\n℗ 1978 Elektra/Asylum Records\n\nBass  Guitar: Benjamin Orr\nBacking  Vocals: Benjamin Orr\nDrums, Percussion: David Robinson\nDrum  Programmer: David Robinson\nBacking  Vocals:",
+            "duration": 226,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=GMYzaqupprQ",
+            "title": "I'm in Touch with Your World",
+            "description": "Provided to YouTube by Elektra Records\n\nI'm in Touch with Your World · The Cars\n\nThe Cars\n\n℗ 1987 Elektra/Asylum Records\n\nAdditional  Vocals: Benjamin Orr\nBacking  Vocals: Benjamin Orr\nDrums, Percussion: David Robinson\nDrum  Programmer: David Robinson\n",
+            "duration": 212,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=pg9MIstRhko",
+            "title": "Don't Cha Stop",
+            "description": "Provided to YouTube by Elektra Records\n\nDon't Cha Stop · The Cars\n\nThe Cars\n\n℗ 1987 Elektra/Asylum Records\n\nBass  Guitar: Benjamin Orr\nBacking  Vocals: Benjamin Orr\nDrums, Percussion: David Robinson\nDrum  Programmer: David Robinson\nBacking  Vocals: Dav",
+            "duration": 184,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=UZ1VZLMJ8D8",
+            "title": "You're All I've Got Tonight",
+            "description": "Provided to YouTube by Elektra Records\n\nYou're All I've Got Tonight · The Cars\n\nThe Cars\n\n℗ 1987 Elektra/Asylum Records\n\nBass  Guitar: Benjamin Orr\nBacking  Vocals: Benjamin Orr\nDrums, Percussion: David Robinson\nDrum  Programmer: David Robinson\nBacking",
+            "duration": 255,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=4ghKhEg8VX8",
+            "title": "Bye Bye Love",
+            "description": "Provided to YouTube by Elektra Records\n\nBye Bye Love · The Cars\n\nThe Cars\n\n℗ 1987 Elektra/Asylum Records\n\nBass  Guitar: Benjamin Orr\nBacking  Vocals: Benjamin Orr\nDrums, Percussion: David Robinson\nDrum  Programmer: David Robinson\nBacking  Vocals: David",
+            "duration": 255,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=VFXsdQb35Io",
+            "title": "All Mixed Up",
+            "description": "Provided to YouTube by Elektra Records\n\nAll Mixed Up · The Cars\n\nThe Cars\n\n℗ 1987 Elektra/Asylum Records\n\nBass  Guitar: Benjamin Orr\nBacking  Vocals: Benjamin Orr\nDrums, Percussion: David Robinson\nDrum  Programmer: David Robinson\nBacking  Vocals: David",
+            "duration": 258,
+            "embed": true
+        },
+        {
+            "uri": "https://www.youtube.com/watch?v=y5oPZFDci80",
+            "title": "Moving in Stereo",
+            "description": "Provided to YouTube by Elektra Records\n\nMoving in Stereo · The Cars\n\nThe Cars\n\n℗ 1987 Elektra/Asylum Records\n\nBass  Guitar: Benjamin Orr\nBacking  Vocals: Benjamin Orr\nDrums, Percussion: David Robinson\nDrum  Programmer: David Robinson\nBacking  Vocals: D",
+            "duration": 287,
+            "embed": true
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{"items": [
+  {
+    "name": "Warner Communications Inc.",
+    "catno": "",
+    "entity_type": "4",
+    "entity_type_name": "Record Company",
+    "id": 141847,
+    "resource_url": "https://api.discogs.com/labels/141847"
+},
+  {
+    "name": "Elektra Records",
+    "catno": "",
+    "entity_type": "13",
+    "entity_type_name": "Phonographic Copyright (p)",
+    "id": 36195,
+    "resource_url": "https://api.discogs.com/labels/36195"
+  },
+  {
+    "name": "Elektra/Asylum Records",
+    "catno": "",
+    "entity_type": "13",
+    "entity_type_name": "Phonographic Copyright (p)",
+    "id": 120636,
+    "resource_url": "https://api.discogs.com/labels/120636"
+  },
+  {
+    "name": "Elektra/Asylum Records",
+    "catno": "",
+    "entity_type": "14",
+    "entity_type_name": "Copyright (c)",
+    "id": 120636,
+    "resource_url": "https://api.discogs.com/labels/120636"
+  },
+  {
+    "name": "Elektra/Asylum/Nonesuch Records",
+    "catno": "",
+    "entity_type": "10",
+    "entity_type_name": "Manufactured By",
+    "id": 264155,
+    "resource_url": "https://api.discogs.com/labels/264155"
+  },
+  {
+    "name": "RTB (Audio/Visual) Productions Ltd.",
+    "catno": "",
+    "entity_type": "37",
+    "entity_type_name": "Produced For",
+    "id": 715637,
+    "resource_url": "https://api.discogs.com/labels/715637"
+  },
+  {
+    "name": "RTB (Audio/Visual) Productions Ltd.",
+    "catno": "",
+    "entity_type": "24",
+    "entity_type_name": "Engineered At",
+    "id": 715637,
+    "resource_url": "https://api.discogs.com/labels/715637"
+  },
+  {
+    "name": "Sterling Sound",
+    "catno": "",
+    "entity_type": "29",
+    "entity_type_name": "Mastered At",
+    "id": 264060,
+    "resource_url": "https://api.discogs.com/labels/264060"
+  },
+  {
+    "name": "Sterling Sound",
+    "catno": "",
+    "entity_type": "30",
+    "entity_type_name": "Lacquer Cut At",
+    "id": 264060,
+    "resource_url": "https://api.discogs.com/labels/264060"
+  },
+  {
+    "name": "PRC Recording Company, Compton, CA",
+    "catno": "",
+    "entity_type": "17",
+    "entity_type_name": "Pressed By",
+    "id": 408781,
+    "resource_url": "https://api.discogs.com/labels/408781"
+  },
+  {
+    "name": "Lido Music",
+    "catno": "",
+    "entity_type": "21",
+    "entity_type_name": "Published By",
+    "id": 292385,
+    "resource_url": "https://api.discogs.com/labels/292385"
+  },
+  {
+    "name": "Lido Music",
+    "catno": "",
+    "entity_type": "14",
+    "entity_type_name": "Copyright (c)",
+    "id": 292385,
+    "resource_url": "https://api.discogs.com/labels/292385"
+  },
+  {
+    "name": "Oversnare Music",
+    "catno": "",
+    "entity_type": "21",
+    "entity_type_name": "Published By",
+    "id": 297762,
+    "resource_url": "https://api.discogs.com/labels/297762"
+  },
+  {
+    "name": "Oversnare Music",
+    "catno": "",
+    "entity_type": "14",
+    "entity_type_name": "Copyright (c)",
+    "id": 297762,
+    "resource_url": "https://api.discogs.com/labels/297762"
+  }]}

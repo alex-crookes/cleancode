@@ -1,0 +1,20 @@
+{
+  "have": 30390,
+  "want": 4395,
+  "rating": {
+    "count": 1982,
+    "average": 4.27
+  },
+  "submitter": {
+    "username": "gregclow",
+    "resource_url": "https://api.discogs.com/users/gregclow"
+  },
+  "contributors": [
+    {
+      "username": "gregclow",
+      "resource_url": "https://api.discogs.com/users/gregclow"
+    }
+  ],
+  "data_quality": "Complete and Correct",
+  "status": "Accepted"
+}

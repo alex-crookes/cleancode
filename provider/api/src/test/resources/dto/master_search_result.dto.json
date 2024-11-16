@@ -1,0 +1,76 @@
+{
+    "country": "US",
+    "year": "1978",
+    "format": [
+        "Vinyl",
+        "LP",
+        "Album",
+        "Stereo"
+    ],
+    "label": [
+        "Elektra",
+        "Warner Communications Inc.",
+        "Elektra Records",
+        "Elektra/Asylum Records",
+        "Elektra/Asylum Records",
+        "Elektra/Asylum/Nonesuch Records",
+        "RTB (Audio/Visual) Productions Ltd.",
+        "RTB (Audio/Visual) Productions Ltd.",
+        "Sterling Sound",
+        "Sterling Sound",
+        "PRC Recording Company, Compton, CA",
+        "Lido Music",
+        "Lido Music",
+        "Oversnare Music",
+        "Oversnare Music"
+    ],
+    "type": "master",
+    "genre": [
+        "Rock"
+    ],
+    "style": [
+        "New Wave",
+        "Pop Rock",
+        "Power Pop"
+    ],
+    "id": 69666,
+    "barcode": [
+        "PRC-W",
+        "BMI",
+        "ASCAP",
+        "6E-135-A",
+        "6E-135-B",
+        "6E-135-A1-RE-PRCW STERLING",
+        "6E-135-B-4-PRCW RTB STERLING",
+        "6E-135-A1-RE-PRCW I STERLING",
+        "6E-135-B-1-PRCW 1-VIII RTB STERLING",
+        "6E-135-A1-PRCW RTB STERLING",
+        "6E-135-B-4-PRCW RTB STERLING",
+        "6E-135-A1-RE-PRCW 1 STERLING",
+        "6E-135-B-1-PRCW 1 RTB STERLING",
+        "6E-135-A-5-PRC-W-1 STERLING",
+        "6E-135-B-8PRCW STERLING RTB",
+        "6E-135-A4-PRCW-1 RTB STERLING",
+        "6E-135-B-1-PRCW 1 RTB STERLING",
+        "6E-135-A-7-PRCW RTB STERLING",
+        "6E-135-B-5-PRC-W-1 STERLING",
+        "6E-135-A-5- PRC-W- 1 STERLING",
+        "6E-135-B-5-PRC-W-1 STERLING"
+    ],
+    "user_data": {
+        "in_wantlist": false,
+        "in_collection": false
+    },
+    "master_id": 69666,
+    "master_url": "https://api.discogs.com/masters/69666",
+    "uri": "/master/69666-The-Cars-The-Cars",
+    "catno": "6E-135",
+    "title": "The Cars - The Cars",
+    "thumb": "https://i.discogs.com/QcC25VHTg_DmOPorf8jcKM6shRcjMUHOn_N5GrdavW4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xMzE5MDU0ODYz/LmpwZWc.jpeg",
+    "cover_image": "https://i.discogs.com/mQ4p8rs4QCkWGIUV36RxMK41r3w-paGDsHmPYFZwydA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDIx/OS0xMzE5MDU0ODYz/LmpwZWc.jpeg",
+    "resource_url": "https://api.discogs.com/masters/69666",
+    "community": {
+        "want": 41959,
+        "have": 89479
+    }
+}

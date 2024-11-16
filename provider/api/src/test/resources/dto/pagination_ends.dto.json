@@ -1,0 +1,11 @@
+{
+
+  "page": 200,
+  "pages": 200,
+  "per_page": 50,
+  "items": 29225,
+  "urls": {
+    "first": "https://api.discogs.com/database/search?q=Cars&token=zNxkKRoDESfycbTLSQcHuXYhcfpocGFNpxPJIehQ&page=1&per_page=50",
+    "prev": "https://api.discogs.com/database/search?q=Cars&token=zNxkKRoDESfycbTLSQcHuXYhcfpocGFNpxPJIehQ&page=199&per_page=50"
+  }
+}

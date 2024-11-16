@@ -1,0 +1,61 @@
+This project is an attempt to demonstrate two key techniques I believe are essential to modern
+coding: Clean Code and Modern Android Practices
+
+The project itself is an exploration of the Discogs API, and is (mainly) limited to loading a
+Track listing.
+
+# TODO
+
+- [ ] Add Navigation Library
+- [ ] Add Room as an offline store (mainly for personal Collection)
+
+# Android Best Practices
+
+At the time of creation (Oct, 2024), the following are observed as Android Best Practices
+
+    - MVI is the preferred UI architecture and data flows Uni-directionally
+        - It is observed this is overkill in many cases and MVVM may be preferred
+        - Both patterns permit unidirectional data flow
+    - Kotlin 2.0.21
+    - Coroutines / Flows for all data transfer
+    - Unidirectional data flow
+    - Jetpack compose for UI
+    - Code is highly modularized and Inverted to enforce testability and improve compile times
+    - Dependency Injection (in this case Dagger/Hilt) with constructor injection to enforce
+        modularity and testability
+
+# Clean Code
+
+Clean code is about isolation from change. This can be achieved in a number of ways, but really it
+mean creating a Layered architecture with unit testability. A four-layer architecture is shown here
+
+Layers are organized into their own modules
+
+## Providers
+
+A provider is just an abstraction around something that can store or retrieve data. In this case,
+there are Providers for an API, FileIO (accessing resources) and Local Preferences.
+
+## Repositories
+
+Repositories abstract between Data providers, and ultimately translate data formats. In this
+project, only a single repo is used, and it performs two tasks:
+
+    1. Retrieves data from the API and caches into local preferences - This would ensure that
+    any higher layer in unaware of the source of the data
+    2. Converts it into "entity" classes, which are used as the Internal format
+
+## Domain
+
+The domain itself is the business logic. Very little is shown here, but approaches with both
+UseCases and ViewModels are shown, and may be combined as needed
+
+## UI
+
+The UI layer is essentially dumb. It's primary implementation is in the UI module, which contains
+all styling/theming and common components written in Compose.
+
+## App
+
+The application layer itself is essentially just a container for starting the app, which means the
+manifest and the launching Activities

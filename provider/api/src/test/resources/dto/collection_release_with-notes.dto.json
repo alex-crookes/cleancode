@@ -1,0 +1,66 @@
+{
+  "id": 27888312,
+  "instance_id": 1561681507,
+  "date_added": "2024-01-10T18:16:11-08:00",
+  "rating": 0,
+  "basic_information": {
+    "id": 27888312,
+    "master_id": 5232,
+    "master_url": "https://api.discogs.com/masters/5232",
+    "resource_url": "https://api.discogs.com/releases/27888312",
+    "thumb": "https://i.discogs.com/avVzrU_aCRlj7AOtWh83Zoi-CLz3RVOQDfv3z7rh0u4/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODg4/MzEyLTE2OTM3MTQ0/MTgtMzE5MC5qcGVn.jpeg",
+    "cover_image": "https://i.discogs.com/k7j8tVL3CtlPoLQZU8PvwfgPamJlMBbkjEy7bGf-MQY/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI3ODg4/MzEyLTE2OTM3MTQ0/MTgtMzE5MC5qcGVn.jpeg",
+    "title": "Treasure",
+    "year": 2018,
+    "formats": [
+      {
+        "name": "Vinyl",
+        "qty": "1",
+        "descriptions": [
+          "LP",
+          "Album",
+          "Reissue",
+          "Remastered"
+        ]
+      }
+    ],
+    "artists": [
+      {
+        "name": "Cocteau Twins",
+        "anv": "",
+        "join": "",
+        "role": "",
+        "tracks": "",
+        "id": 12373,
+        "resource_url": "https://api.discogs.com/artists/12373"
+      }
+    ],
+    "labels": [
+      {
+        "name": "4AD",
+        "catno": "CAD 3710",
+        "entity_type": "1",
+        "entity_type_name": "Label",
+        "id": 634,
+        "resource_url": "https://api.discogs.com/labels/634"
+      }
+    ],
+    "genres": [
+      "Rock"
+    ],
+    "styles": [
+      "Ethereal"
+    ]
+  },
+  "folder_id": 1,
+  "notes": [
+    {
+      "field_id": 1,
+      "value": "Poor (P)"
+    },
+    {
+      "field_id": 2,
+      "value": "Good (G)"
+    }
+  ]
+}
