@@ -35,7 +35,7 @@ import com.alexcrookes.ui.organisms.videoplayer.watchYouTubeViaIntent
 @Composable
 fun ReleaseScreen(release: Release, modifier: Modifier) {
 
-	Log.e("STATE", "Loading Release - $release")
+	//Log.e("STATE", "Loading Release - $release")
 	val context = LocalContext.current
 
 	Scaffold () { _ ->
@@ -158,6 +158,7 @@ private val testRelease = Release(
 		),
 
 	),
+	masterId = 12345L,
 	community = com.alexcrookes.core.entities.Community(
 		wantedBy = 10124,
 		ownedBy = 4560,

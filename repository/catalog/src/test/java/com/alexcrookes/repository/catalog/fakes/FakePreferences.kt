@@ -1,6 +1,7 @@
 package com.alexcrookes.repository.catalog.fakes
 
 import com.alexcrookes.core.coreJsonSettings
+import com.alexcrookes.core.extension.Epoch
 import com.alexcrookes.provider.local_preferences.Preferences
 import kotlinx.coroutines.runBlocking
 import kotlinx.serialization.KSerializer
@@ -54,6 +55,16 @@ class FakePreferences: Preferences {
 
 	override fun clearAllSync() {
 		prefs.clear()
+	}
+
+	override fun readTimeStamp(keyName: String): Epoch = try {
+		prefs[keyName]?.toLong() ?: 0L
+	} catch (e: NumberFormatException) {
+		0L
+	}
+
+	override fun writeTimeStamp(keyName: String, timeStamp: Epoch) {
+		prefs[keyName] = timeStamp.toString()
 	}
 
 }

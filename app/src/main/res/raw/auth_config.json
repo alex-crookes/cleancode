@@ -1,0 +1,12 @@
+{
+  "client_id": "",
+  "redirect_uri": "net.openid.appauthdemo:/oauth2redirect",
+  "end_session_redirect_uri": "net.openid.appauthdemo:/oauth2redirect",
+  "authorization_scope": "openid email profile",
+  "discovery_uri": "",
+  "authorization_endpoint_uri": "https://discogs.com/oauth/authorize",
+  "token_endpoint_uri": "https://api.discogs.com/oauth/access_token",
+  "registration_endpoint_uri": "",
+  "user_info_endpoint_uri": "https://api.discogs.com/oauth/identity",
+  "https_required": true
+}

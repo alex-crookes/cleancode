@@ -18,8 +18,10 @@
             <option value="$PROJECT_DIR$/provider/cache" />
             <option value="$PROJECT_DIR$/provider/fileIO" />
             <option value="$PROJECT_DIR$/provider/local-preferences" />
+            <option value="$PROJECT_DIR$/provider/room" />
             <option value="$PROJECT_DIR$/repository" />
             <option value="$PROJECT_DIR$/repository/catalog" />
+            <option value="$PROJECT_DIR$/repository/collection" />
             <option value="$PROJECT_DIR$/ui" />
           </set>
         </option>

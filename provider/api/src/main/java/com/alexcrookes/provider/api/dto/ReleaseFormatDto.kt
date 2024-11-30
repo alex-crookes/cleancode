@@ -8,5 +8,5 @@ data class ReleaseFormatDto(
     @SerialName("name") val name: String,
     @SerialName("qty") val quantity: String,
     @SerialName("text") val text: String? = null,
-    @SerialName("descriptions") val descriptions: List<String>
+    @SerialName("descriptions") val descriptions: List<String>? = emptyList()
 )

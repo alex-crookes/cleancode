@@ -2,6 +2,7 @@ package com.alexcrookes.core.entities
 
 data class Release(
 	val id: Long,
+	val masterId: Long,
 	val title: String,
 	val description: String,
 	val artists: List<String>,

@@ -71,7 +71,7 @@ class MasterUnkownFormatReleaseDtoTests : DeserializeTests() {
 		loadAndDeserialize(releaseFormatDto, ReleaseFormatDto.serializer()) { sut ->
 			assertEquals("Vinyl", sut.name)
 			assertEquals(1.toString(), sut.quantity)
-			assertEquals(3, sut.descriptions.size)
+			assertEquals(3, sut.descriptions?.size)
 		}
 	}
 

@@ -1,6 +1,7 @@
 package com.alexcrookes.cleancode
 
 import android.app.Application
+import android.content.Intent
 import android.os.Bundle
 import android.util.Log
 import androidx.activity.ComponentActivity
@@ -23,6 +24,7 @@ import com.alexcrookes.domain.catalog.CatalogIntent
 import com.alexcrookes.domain.catalog.ViewModelResult
 import dagger.hilt.android.AndroidEntryPoint
 import dagger.hilt.android.HiltAndroidApp
+import kotlinx.coroutines.coroutineScope
 
 @HiltAndroidApp
 class CCApplication: Application()
@@ -31,12 +33,25 @@ class CCApplication: Application()
 class MainActivity : ComponentActivity() {
 	override fun onCreate(savedInstanceState: Bundle?) {
 		super.onCreate(savedInstanceState)
+
+		intent.action?.let { action ->
+			Log.e("INTENT", "Received ${action}")
+			require (action.equals(Intent.ACTION_VIEW)) { return@let  }
+
+			intent.data?.let { uri ->
+				val path = uri.path
+				val args = uri.getQueryParameter("test")
+
+				Log.e("INTENT", "Received $uri $path `$args`")
+			}
+		}
+
 		enableEdgeToEdge()
 		setContent {
 			val catalogVm: Catalog = hiltViewModel<Catalog>()
 
 			val state = catalogVm.releaseState.collectAsState()
-			Log.e("STATE", "current VM State is $state")
+
 
 			catalogVm.onIntent(CatalogIntent.GetRelease(249504))
 			CleanCodeTheme {

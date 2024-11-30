@@ -78,7 +78,6 @@ subprojects {
 				// Sets the Android SDK version to be used for compiling the project.
 				setCompileSdkVersion(libs.versions.sdk.compile.get().toInt())
 
-
 				// Sets the minimum and target SDK versions for the app.
 				defaultConfig {
 					// Minimum Android version the app can run on.

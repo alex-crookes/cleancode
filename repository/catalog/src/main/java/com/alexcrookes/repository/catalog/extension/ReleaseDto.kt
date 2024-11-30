@@ -19,6 +19,7 @@ internal val ReleaseDto.asRelease: Release
 		tracks = this.tracks.map { it.asTrack },
 		videos = this.videos.map { it.asVideo },
 		description = this.notes,
+		masterId = this.masterReleaseId,
 		community = Community(
 			wantedBy = this.community.want,
 			ownedBy = this.community.have,

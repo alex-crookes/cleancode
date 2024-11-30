@@ -8,9 +8,6 @@ plugins {
 
 android {
 	namespace = "com.alexcrookes.provider.api"
-//	buildFeatures {
-//		buildConfig = true
-//	}
 }
 
 dependencies {

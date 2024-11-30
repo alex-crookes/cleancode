@@ -1,5 +1,6 @@
 package com.alexcrookes.provider.local_preferences
 
+import com.alexcrookes.core.extension.Epoch
 import kotlinx.serialization.KSerializer
 
 interface Preferences {
@@ -27,4 +28,7 @@ interface Preferences {
 	suspend fun clearAll()
 
 	fun clearAllSync()
+
+	fun writeTimeStamp(keyName: String, timeStamp: Epoch)
+	fun readTimeStamp(keyName: String): Epoch
 }

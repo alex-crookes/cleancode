@@ -1,7 +1,10 @@
 package com.alexcrookes.provider.api
 
 import com.alexcrookes.core.coreJsonSettings
+import com.alexcrookes.provider.api.dto.CollectionReleaseDto
 import com.alexcrookes.provider.api.dto.ReleaseDto
+import com.alexcrookes.provider.api.response.CollectionFoldersResponse
+import com.alexcrookes.provider.api.response.CollectionResponse
 import com.alexcrookes.provider.local_preferences.Preferences
 import io.ktor.client.HttpClient
 import io.ktor.client.call.body
@@ -29,13 +32,15 @@ class ApiImplementation @Inject constructor(
 	private val authTokenKeyName = "__discogsAuthToken"
 	private lateinit var httpClient: HttpClient
 
+	//private val userName = "hifichild"
 
 	// endregion
 
 	// region Implementations (Api)
 
 	init {
-		val token = prefs.readFromSerializationSync(String.serializer(), authTokenKeyName)
+		//val token = prefs.readFromSerializationSync(String.serializer(), authTokenKeyName)
+		val token = "RrUEkpDRsolZbtIPXVESHVLqhBqnvyKYmnBZmHMd"
 		buildClient(token)
 	}
 
@@ -75,6 +80,58 @@ class ApiImplementation @Inject constructor(
 		return parseResult<ReleaseDto>(result)
 	}
 
+	override suspend fun getCollectionFolders(userName: String): Result<CollectionFoldersResponse> {
+		val path = "$rootPath/users/$userName/collection/folders"
+		val url = URLBuilder(path).build()
+		val result = httpClient.get(url)
+
+		return parseResult<CollectionFoldersResponse>(result)
+	}
+
+	override suspend fun getCollectionReleasesForFolder(folderId: Int, userName: String): Result<CollectionResponse> {
+		val path = "$rootPath/users/$userName/collection/folders/$folderId/releases?page_size=$pageSize"
+		val url = URLBuilder(path).build()
+		val result = httpClient.get(url)
+
+		return parseResult<CollectionResponse>(result)
+	}
+
+	override suspend fun getAllCollectionReleasesForFolder(
+		folderId: Int,
+		userName: String
+	): Result<List<CollectionReleaseDto>> {
+		var page = 0
+		var lastPage = Int.MAX_VALUE
+		val results = mutableListOf<CollectionReleaseDto>()
+
+		while (page <= lastPage) {
+			page+= 1 // pages as 1 indexed, which is annoying
+			val response = getCollectionReleasesForFolderWithPage(folderId, page, userName)
+			response.getOrNull()?.let { responseData ->
+				lastPage = responseData.pagination.pageSize
+				results.addAll(responseData.releases)
+			}
+
+			require (lastPage < Int.MAX_VALUE) { // otherwise we'll lop endlessly
+				return Result.failure( Exception("Initial Page not found") )
+			}
+		}
+
+		return Result.success(results)
+	}
+
+	override suspend fun getCollectionReleasesForFolderWithPage(
+		folderId: Int,
+		page: Int,
+		userName: String
+	): Result<CollectionResponse> {
+		val path = "$rootPath/users/$userName/collection/folders/$folderId/releases?page=$page&page_size=$pageSize"
+		val url = URLBuilder(path).build()
+		val result = httpClient.get(url)
+
+		return parseResult<CollectionResponse>(result)
+	}
+
 	// endregion
 
 	// region Helpers
@@ -95,14 +152,16 @@ class ApiImplementation @Inject constructor(
 	private fun buildClient(personalToken: String?) {
 		val plugin = createClientPlugin("DiscogsTokenAuthPlugin") {
 			val userAgentValue = "CleanCode/1.0 + https://alexcrookes.com"
-			val clientAuth = "Discogs key=$consumerKey, secret=$consumerSecret"
+
+			val authKey: String = personalToken?.let {
+				"Discogs token=$it"
+			} ?: run {
+				"Discogs key=$consumerKey, secret=$consumerSecret"
+			}
+			//val clientAuth = "Discogs key=$consumerKey, secret=$consumerSecret"
 			onRequest { request, _ ->
 				request.headers.append("User-Agent", userAgentValue)
-				request.headers.append("Authorization", clientAuth)
-				personalToken?.let {
-					val headerValue = "Discogs token=$it"
-					request.headers.append("Authorization", headerValue)
-				}
+				request.headers.append("Authorization", authKey)
 			}
 		}
 

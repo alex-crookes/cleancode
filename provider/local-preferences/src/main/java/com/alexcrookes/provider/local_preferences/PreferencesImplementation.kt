@@ -4,8 +4,11 @@ import android.content.Context
 import androidx.datastore.core.DataStore
 import androidx.datastore.preferences.core.Preferences
 import androidx.datastore.preferences.core.edit
+import androidx.datastore.preferences.core.longPreferencesKey
 import androidx.datastore.preferences.core.stringPreferencesKey
 import androidx.datastore.preferences.preferencesDataStore
+import com.alexcrookes.core.extension.Epoch
+import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.flow.firstOrNull
 import kotlinx.coroutines.flow.map
 import kotlinx.coroutines.runBlocking
@@ -82,6 +85,7 @@ class PreferencesImplementation @Inject constructor(
 		runBlocking { clearKey(keyName) }
 	}
 
+
 	override suspend fun clearAll() {
 		context.dataStore.edit { it.clear() }
 	}
@@ -90,5 +94,31 @@ class PreferencesImplementation @Inject constructor(
 		runBlocking { clearAll() }
 	}
 
+
+
+	override fun readTimeStamp(keyName: String): Epoch = runBlocking {
+		readTimeStampAsync(keyName)
+	}
+
+
+	override fun writeTimeStamp(keyName: String, timeStamp: Epoch) = runBlocking {
+		writeTimeStampSync(keyName, timeStamp)
+	}
+
+	// endregion
+
+	// region Helpers
+
+	private suspend fun readTimeStampAsync(keyName: String): Epoch {
+		val key = longPreferencesKey(keyName)
+		return context.dataStore.data.map {
+			it[key] ?: 0L
+		}.firstOrNull() ?: 0L
+	}
+
+	private suspend fun writeTimeStampSync(keyName: String, timeStamp: Epoch) {
+		val key = longPreferencesKey(keyName)
+		context.dataStore.edit { it[key] = timeStamp }
+	}
 	// endregion
 }

@@ -12,6 +12,7 @@ android {
 dependencies {
 	implementation(project(":core"))
 	implementation(project(":repository:catalog"))
+	implementation(project(":repository:collection"))
 	implementation(libs.androidx.core.ktx)
 	ksp(libs.hilt.compiler)
 	implementation(libs.hilt)
