@@ -59,8 +59,9 @@ class Catalog @Inject constructor(
 			Log.e("ROOM", "Collection contains? $oldRows")
 			collection.TEST_insert(collectionRelease)
 			val rows = collection.collectionContains(collectionRelease.id)
-
 			Log.e("ROOM", "Collection contains? $rows")
+			val size = collection.collectionSize()
+			Log.e("ROOM", "Collection size = $size")
 		}
 	}
 

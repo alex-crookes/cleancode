@@ -14,13 +14,13 @@ data class FormatRow(
 internal const val CollectionFormatsCrossRefTable = "collection_format_crossref_table"
 @Entity(
 	tableName = CollectionFormatsCrossRefTable,
-	primaryKeys = ["instance_id", "format_name"]
+	primaryKeys = ["instance_id", "format_name"],
 )
 
 data class CollectionFormatsCrossRefRow(
 	@ColumnInfo(name = "instance_id")
 	val instanceId: Long,
 
-	@ColumnInfo(name = "format_name")
+	@ColumnInfo(name = "format_name", index = true)
 	val format: String
 )

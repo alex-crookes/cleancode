@@ -65,14 +65,14 @@ data class CollectionReleaseRowWithMeta(
 
 	@Relation(
 		parentColumn = "instance_id",
-		entityColumn = "id",
+		entityColumn = "artist_id",
 		associateBy = Junction(CollectionArtistsCrossRefRow::class)
 	)
 	val artists: List<ArtistRow>,
 
 	@Relation(
 		parentColumn = "instance_id",
-		entityColumn = "id",
+		entityColumn = "genre_name",
 		associateBy = Junction(CollectionGenresCrossRefRow::class)
 	)
 	val genres: List<GenresRow>,
@@ -86,7 +86,7 @@ data class CollectionReleaseRowWithMeta(
 
 	@Relation(
 		parentColumn = "instance_id",
-		entityColumn = "style",
+		entityColumn = "style_name",
 		associateBy = Junction(CollectionStylesCrossRefRow::class)
 	)
 	val styles: List<StylesRow>

@@ -16,14 +16,14 @@ data class ArtistRow(
 
 
 internal const val CollectionArtistsCrossRefTable = "collection_artists_crossref_table"
-@Entity(tableName = CollectionArtistsCrossRefTable, primaryKeys = ["instance_id", "id"])
+@Entity(tableName = CollectionArtistsCrossRefTable, primaryKeys = ["instance_id", "artist_id"])
 data class CollectionArtistsCrossRefRow(
 	@ColumnInfo(name="instance_id")
 	val instanceId: Long,
 
-	@ColumnInfo(name="id")
+	@ColumnInfo(name="artist_id")
 	val artistId: Long,
 
-	@ColumnInfo(name="name")
+	@ColumnInfo(name="name", index = true)
 	val artistName: String
 )

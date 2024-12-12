@@ -10,6 +10,7 @@ data class EntityDto(
     @SerialName("name") val name: String,
     @SerialName("catno") val catalogueNumber: String? = "",
     @SerialName("id") val id: Long,
+    @SerialName("instance_id") val instanceId: Long = -1,
     @SerialName("resource_url") val resourceUrl: String,
     @SerialName("thumbnail_url") val thumbnail: String? = null
 )

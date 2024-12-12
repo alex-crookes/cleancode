@@ -2,7 +2,7 @@
   "formatVersion": 1,
   "database": {
     "version": 1,
-    "identityHash": "eba06a2f1d888e54124e093ffd0ffda4",
+    "identityHash": "006f6135a9af6c206f03b48c64471d4a",
     "entities": [
       {
         "tableName": "collection",
@@ -138,7 +138,17 @@
             "format_name"
           ]
         },
-        "indices": [],
+        "indices": [
+          {
+            "name": "index_collection_format_crossref_table_format_name",
+            "unique": false,
+            "columnNames": [
+              "format_name"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_collection_format_crossref_table_format_name` ON `${TABLE_NAME}` (`format_name`)"
+          }
+        ],
         "foreignKeys": []
       },
       {
@@ -163,7 +173,7 @@
       },
       {
         "tableName": "collection_genre_crossref_table",
-        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`instance_id` INTEGER NOT NULL, `genre` TEXT NOT NULL, PRIMARY KEY(`instance_id`, `genre`))",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`instance_id` INTEGER NOT NULL, `genre_name` TEXT NOT NULL, PRIMARY KEY(`instance_id`, `genre_name`))",
         "fields": [
           {
             "fieldPath": "instanceId",
@@ -173,7 +183,7 @@
           },
           {
             "fieldPath": "genre",
-            "columnName": "genre",
+            "columnName": "genre_name",
             "affinity": "TEXT",
             "notNull": true
           }
@@ -182,10 +192,20 @@
           "autoGenerate": false,
           "columnNames": [
             "instance_id",
-            "genre"
+            "genre_name"
           ]
         },
-        "indices": [],
+        "indices": [
+          {
+            "name": "index_collection_genre_crossref_table_genre_name",
+            "unique": false,
+            "columnNames": [
+              "genre_name"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_collection_genre_crossref_table_genre_name` ON `${TABLE_NAME}` (`genre_name`)"
+          }
+        ],
         "foreignKeys": []
       },
       {
@@ -285,7 +305,7 @@
       },
       {
         "tableName": "collection_styles_crossref_table",
-        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`instance_id` INTEGER NOT NULL, `style` TEXT NOT NULL, PRIMARY KEY(`instance_id`, `style`))",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`instance_id` INTEGER NOT NULL, `style_name` TEXT NOT NULL, PRIMARY KEY(`instance_id`, `style_name`))",
         "fields": [
           {
             "fieldPath": "instanceId",
@@ -295,7 +315,7 @@
           },
           {
             "fieldPath": "style",
-            "columnName": "style",
+            "columnName": "style_name",
             "affinity": "TEXT",
             "notNull": true
           }
@@ -304,7 +324,7 @@
           "autoGenerate": false,
           "columnNames": [
             "instance_id",
-            "style"
+            "style_name"
           ]
         },
         "indices": [],
@@ -338,7 +358,7 @@
       },
       {
         "tableName": "collection_artists_crossref_table",
-        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`instance_id` INTEGER NOT NULL, `id` INTEGER NOT NULL, `name` TEXT NOT NULL, PRIMARY KEY(`instance_id`, `id`))",
+        "createSql": "CREATE TABLE IF NOT EXISTS `${TABLE_NAME}` (`instance_id` INTEGER NOT NULL, `artist_id` INTEGER NOT NULL, `name` TEXT NOT NULL, PRIMARY KEY(`instance_id`, `artist_id`))",
         "fields": [
           {
             "fieldPath": "instanceId",
@@ -348,7 +368,7 @@
           },
           {
             "fieldPath": "artistId",
-            "columnName": "id",
+            "columnName": "artist_id",
             "affinity": "INTEGER",
             "notNull": true
           },
@@ -363,10 +383,20 @@
           "autoGenerate": false,
           "columnNames": [
             "instance_id",
-            "id"
+            "artist_id"
           ]
         },
-        "indices": [],
+        "indices": [
+          {
+            "name": "index_collection_artists_crossref_table_name",
+            "unique": false,
+            "columnNames": [
+              "name"
+            ],
+            "orders": [],
+            "createSql": "CREATE INDEX IF NOT EXISTS `index_collection_artists_crossref_table_name` ON `${TABLE_NAME}` (`name`)"
+          }
+        ],
         "foreignKeys": []
       },
       {
@@ -429,7 +459,7 @@
     "views": [],
     "setupQueries": [
       "CREATE TABLE IF NOT EXISTS room_master_table (id INTEGER PRIMARY KEY,identity_hash TEXT)",
-      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, 'eba06a2f1d888e54124e093ffd0ffda4')"
+      "INSERT OR REPLACE INTO room_master_table (id,identity_hash) VALUES(42, '006f6135a9af6c206f03b48c64471d4a')"
     ]
   }
 }

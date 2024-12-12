@@ -9,12 +9,28 @@ import com.alexcrookes.provider.api.dto.CollectionReleaseDto
 import com.alexcrookes.provider.api.response.CollectionFoldersResponse
 import com.alexcrookes.provider.local_preferences.Preferences
 import com.alexcrookes.provider.room.CollectionDao
+import com.alexcrookes.provider.room.entity.ArtistRow
+import com.alexcrookes.provider.room.entity.CollectionReleaseRowWithMeta
+import com.alexcrookes.provider.room.entity.FormatRow
+import com.alexcrookes.provider.room.entity.GenresRow
+import com.alexcrookes.provider.room.entity.LabelRow
+import com.alexcrookes.provider.room.entity.StylesRow
 import com.alexcrookes.repository.collection.extension.asCollectionFolder
 import com.alexcrookes.repository.collection.extension.asCollectionRelease
 import com.alexcrookes.repository.collection.extension.asCollectionReleaseRow
+import com.alexcrookes.repository.collection.extension.asRow
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import javax.inject.Inject
+
+/*
+TODO
+
+- Check Unit Tests
+- Clean this up
+- wire in the load from local sources, then fetch pattern
+
+ */
 
 class CollectionRepositoryImplementation @Inject constructor(
 	private val api: Api,
@@ -50,12 +66,32 @@ class CollectionRepositoryImplementation @Inject constructor(
 	}
 
 	override suspend fun collectionContains(id: Long): Result<Boolean> {
-		val count = collectionDao.collectionContains(id)
+		val count = collectionDao.collectionSize(id)
 		return Result.success(count > 0)
 	}
 
+	override suspend fun collectionSize(): Result<Int> {
+		val count = collectionDao.collectionSize()
+		return Result.success(count)
+	}
+
 	override suspend fun TEST_insert(collectionRelease: CollectionRelease): Result<Boolean> {
-		collectionDao.insert(collectionRelease.asCollectionReleaseRow)
+		val artist: List<ArtistRow> = listOf( ArtistRow(1, "Test"))
+		val genres: List<GenresRow> = listOf( GenresRow("Test"))
+		val styles: List<StylesRow> = listOf( StylesRow("Test"))
+		val labels: List<LabelRow> = listOf( LabelRow(1, collectionRelease.instanceId, "Test"))
+		val formats: List<FormatRow> = listOf( FormatRow("Test"))
+
+		collectionDao.insert(
+			CollectionReleaseRowWithMeta(
+				row = collectionRelease.asCollectionReleaseRow,
+				artists = artist,
+				genres = genres,
+				styles = styles,
+				labels = labels,
+				formats = formats
+			)
+		)
 		return Result.success(true)
 	}
 
@@ -75,6 +111,9 @@ class CollectionRepositoryImplementation @Inject constructor(
 
 				response.getOrNull()?.let { responseData ->
 					lastPage = responseData.pagination.pages
+					collectionDao.insertAll(
+						*responseData.releases.map { it.asRow }.toTypedArray()
+					)
 					results.addAll(responseData.releases.map { it.asCollectionRelease })
 				}
 			} catch(e: Exception) {
@@ -108,6 +147,10 @@ class CollectionRepositoryImplementation @Inject constructor(
 
 				response.getOrNull()?.let { responseData ->
 					lastPage = responseData.pagination.pages
+
+//					collectionDao.insertAll(
+//						*responseData.releases.map { it.asRow }.toTypedArray()
+//					)
 					results.addAll(responseData.releases.map { it.asCollectionRelease })
 				}
 			} catch(e: Exception) {

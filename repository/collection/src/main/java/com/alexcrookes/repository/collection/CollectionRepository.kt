@@ -15,10 +15,12 @@ interface CollectionRepository {
 
 	suspend fun getCollection(userName: String, folderId: Int): Result<List<CollectionRelease>>
 
-	@Deprecated("This should not be in this interface")
+//	@Deprecated("This should not be in this interface")
 	suspend fun TEST_insert(collectionRelease: CollectionRelease): Result<Boolean>
 
 	suspend fun collectionContains(id: Long): Result<Boolean>
+
+	suspend fun collectionSize(): Result<Int>
 }
 
 

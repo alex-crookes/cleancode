@@ -11,17 +11,15 @@ data class GenresRow(
 	val genre: String
 )
 
-
-
 internal const val CollectionGenresCrossRefTable = "collection_genre_crossref_table"
 @Entity(
 	tableName = CollectionGenresCrossRefTable,
-	primaryKeys = ["instance_id", "genre"]
+	primaryKeys = ["instance_id", "genre_name"]
 )
 data class CollectionGenresCrossRefRow(
 	@ColumnInfo(name="instance_id")
 	val instanceId: Long,
 
-	@ColumnInfo(name="genre")
+	@ColumnInfo(name="genre_name", index = true)
 	val genre: String
 )

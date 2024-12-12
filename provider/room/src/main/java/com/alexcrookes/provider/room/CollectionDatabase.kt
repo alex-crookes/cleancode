@@ -1,10 +1,8 @@
 package com.alexcrookes.provider.room
 
-import androidx.room.AutoMigration
 import androidx.room.Database
 import androidx.room.RoomDatabase
 import com.alexcrookes.provider.room.entity.ArtistRow
-import com.alexcrookes.provider.room.entity.ArtistsTable
 import com.alexcrookes.provider.room.entity.CollectionArtistsCrossRefRow
 import com.alexcrookes.provider.room.entity.CollectionFormatsCrossRefRow
 import com.alexcrookes.provider.room.entity.CollectionGenresCrossRefRow
